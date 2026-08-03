@@ -1,0 +1,249 @@
+[
+  {
+    "id": 1,
+    "folder": "product_01_zipper_bag_custom",
+    "title": "Zipper bag custom (minimal 100 pcs) Zipper pouch serbaguna free desain + FREE SABLON KANTONG PLASTIK ZIPPER (100pcs)",
+    "price": "Rp4.300",
+    "sold": "10RB+ terjual",
+    "commission": "80%",
+    "local_images": [
+      "products/product_01_zipper_bag_custom/image_1.jpg",
+      "products/product_01_zipper_bag_custom/image_2.jpg",
+      "products/product_01_zipper_bag_custom/image_3.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "folder": "product_02_tutup_botol_longneck",
+    "title": "50 PCS TUTUP BOTOL LONGNECK",
+    "price": "Rp8.500",
+    "sold": "83 terjual",
+    "commission": "71.5%",
+    "local_images": [
+      "products/product_02_tutup_botol_longneck/image_1.jpg",
+      "products/product_02_tutup_botol_longneck/image_2.jpg",
+      "products/product_02_tutup_botol_longneck/image_3.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "folder": "product_03_tutup_botol_3cm",
+    "title": "Tutup botol Diameter 3cm x 9mm tanpa segel untuk bahan kerajinan",
+    "price": "Rp17.999",
+    "sold": "6 terjual",
+    "commission": "71.5%",
+    "local_images": [
+      "products/product_03_tutup_botol_3cm/image_1.jpg",
+      "products/product_03_tutup_botol_3cm/image_2.jpg",
+      "products/product_03_tutup_botol_3cm/image_3.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "folder": "product_04_bantal_leher_u",
+    "title": "Bantal Leher U Empuk Lembut Dan Ringan Bantal Leher U Anti Pegal Neck Pillow Travel",
+    "price": "Rp48.599",
+    "sold": "2 terjual",
+    "commission": "61.5%",
+    "local_images": [
+      "products/product_04_bantal_leher_u/image_1.jpg",
+      "products/product_04_bantal_leher_u/image_2.jpg",
+      "products/product_04_bantal_leher_u/image_3.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "folder": "product_05_bantal_travel_sandaran",
+    "title": "Bantal Travel Sandaran Leher Nyaman Bantal Leher U Empuk Lembut Dan Ringan",
+    "price": "Rp48.599",
+    "sold": "1 terjual",
+    "commission": "60%",
+    "local_images": [
+      "products/product_05_bantal_travel_sandaran/image_1.jpg",
+      "products/product_05_bantal_travel_sandaran/image_2.jpg",
+      "products/product_05_bantal_travel_sandaran/image_3.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "folder": "product_06_ring_karet_roda_koper",
+    "title": "4pcs Ring/Strip Karet Roda Koper Pengganti - Material Silikon Berkualitas, 5 Variasi Warna",
+    "price": "Rp25.000",
+    "sold": "7 terjual",
+    "commission": "57.5%",
+    "local_images": [
+      "products/product_06_ring_karet_roda_koper/image_1.jpg",
+      "products/product_06_ring_karet_roda_koper/image_2.jpg",
+      "products/product_06_ring_karet_roda_koper/image_3.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "folder": "product_07_masker_tidur_sutra",
+    "title": "Masker Tidur Sutra - Bentuk Kontur Wajah, Tali Elastis Lebar Tidak Mengikat Rambut",
+    "price": "Rp26.900",
+    "sold": "4 terjual",
+    "commission": "57.5%",
+    "local_images": [
+      "products/product_07_masker_tidur_sutra/image_1.jpg",
+      "products/product_07_masker_tidur_sutra/image_2.jpg",
+      "products/product_07_masker_tidur_sutra/image_3.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "folder": "product_08_pelindung_roda_ganda",
+    "title": "Pelindung Roda Ganda: Koper dan Kursi - Cover Silikon 6 Warna, Set Komplit 8PCS",
+    "price": "Rp35.900",
+    "sold": "1 terjual",
+    "commission": "57.5%",
+    "local_images": [
+      "products/product_08_pelindung_roda_ganda/image_1.jpg",
+      "products/product_08_pelindung_roda_ganda/image_2.jpg",
+      "products/product_08_pelindung_roda_ganda/image_3.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "folder": "product_09_masker_mata_3d",
+    "title": "Masker Mata 3D Gelap Total - Memory Foam Lembut, Tali Adjustable Anti Bocor Cahaya",
+    "price": "Rp65.000",
+    "sold": "3 terjual",
+    "commission": "57.5%",
+    "local_images": [
+      "products/product_09_masker_mata_3d/image_1.jpg",
+      "products/product_09_masker_mata_3d/image_2.jpg",
+      "products/product_09_masker_mata_3d/image_3.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "folder": "product_10_tsa_luggage_key",
+    "title": "TSA Luggage Key T002 T007 Master Key Kunci Koper Gembok Presisi 4.9g",
+    "price": "Rp60.000",
+    "sold": "-",
+    "commission": "57.5%",
+    "local_images": [
+      "products/product_10_tsa_luggage_key/image_1.jpg",
+      "products/product_10_tsa_luggage_key/image_2.jpg",
+      "products/product_10_tsa_luggage_key/image_3.jpg"
+    ]
+  },
+  {
+    "id": 11,
+    "folder": "product_11_tas_serut_stringbag",
+    "title": "Tas Serut Karet Stringbag Multifungsi Pria Wanita Bahan ringkle Ransel Drawstring",
+    "price": "Rp35.556",
+    "sold": "-",
+    "commission": "55%",
+    "local_images": [
+      "products/product_11_tas_serut_stringbag/image_1.jpg",
+      "products/product_11_tas_serut_stringbag/image_2.jpg",
+      "products/product_11_tas_serut_stringbag/image_3.jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "folder": "product_12_tiket_po_lilmobag",
+    "title": "Tiket PO LILMOBAG 4 in 1 duffle",
+    "price": "Rp50.000",
+    "sold": "-",
+    "commission": "50%",
+    "local_images": [
+      "products/product_12_tiket_po_lilmobag/image_1.jpg",
+      "products/product_12_tiket_po_lilmobag/image_2.jpg",
+      "products/product_12_tiket_po_lilmobag/image_3.jpg"
+    ]
+  },
+  {
+    "id": 13,
+    "folder": "product_13_tas_pouch_anak",
+    "title": "Tas Pouch Anak Multifungsi Zipper Waterproof / Tempat Pensil dan alat tulis sekolah premium",
+    "price": "Rp116.910",
+    "sold": "-",
+    "commission": "50%",
+    "local_images": [
+      "products/product_13_tas_pouch_anak/image_1.jpg",
+      "products/product_13_tas_pouch_anak/image_2.jpg",
+      "products/product_13_tas_pouch_anak/image_3.jpg"
+    ]
+  },
+  {
+    "id": 14,
+    "folder": "product_14_tas_bahu_wey",
+    "title": "Tas Bahu WEY, Tas Selempang Kapasitas Besar Soft Puffy Shoulder Bag",
+    "price": "Rp84.000",
+    "sold": "-",
+    "commission": "49%",
+    "local_images": [
+      "products/product_14_tas_bahu_wey/image_1.jpg",
+      "products/product_14_tas_bahu_wey/image_2.jpg",
+      "products/product_14_tas_bahu_wey/image_3.jpg"
+    ]
+  },
+  {
+    "id": 15,
+    "folder": "product_15_botol_kaca_parfum_10ml",
+    "title": "Botol kaca parfum kosong 10ml [ grosir perlusin ] penjualan 12 pcs",
+    "price": "Rp32.500",
+    "sold": "97 terjual",
+    "commission": "46.5%",
+    "local_images": [
+      "products/product_15_botol_kaca_parfum_10ml/image_1.jpg",
+      "products/product_15_botol_kaca_parfum_10ml/image_2.jpg",
+      "products/product_15_botol_kaca_parfum_10ml/image_3.jpg"
+    ]
+  },
+  {
+    "id": 16,
+    "folder": "product_16_botol_parfum_spray_5ml",
+    "title": "Botol Parfum Kosong Kaca 5ml Spray – Mini Refill Parfum Praktis Dibawa",
+    "price": "Rp2.700",
+    "sold": "439 terjual",
+    "commission": "46.5%",
+    "local_images": [
+      "products/product_16_botol_parfum_spray_5ml/image_1.jpg",
+      "products/product_16_botol_parfum_spray_5ml/image_2.jpg",
+      "products/product_16_botol_parfum_spray_5ml/image_3.jpg"
+    ]
+  },
+  {
+    "id": 17,
+    "folder": "product_17_botol_parfum_hermes_50ml",
+    "title": "botol kosong parfum HERMES ukuran 50ml penjualan satuan",
+    "price": "Rp8.000",
+    "sold": "2 terjual",
+    "commission": "46.5%",
+    "local_images": [
+      "products/product_17_botol_parfum_hermes_50ml/image_1.jpg",
+      "products/product_17_botol_parfum_hermes_50ml/image_2.jpg",
+      "products/product_17_botol_parfum_hermes_50ml/image_3.jpg"
+    ]
+  },
+  {
+    "id": 18,
+    "folder": "product_18_botol_parfum_10ml_refill",
+    "title": "Botol parfum kosong, buat isi ulang ,ukuran 10ml harga grosir",
+    "price": "Rp2.800",
+    "sold": "289 terjual",
+    "commission": "46.5%",
+    "local_images": [
+      "products/product_18_botol_parfum_10ml_refill/image_1.jpg",
+      "products/product_18_botol_parfum_10ml_refill/image_2.jpg",
+      "products/product_18_botol_parfum_10ml_refill/image_3.jpg"
+    ]
+  },
+  {
+    "id": 19,
+    "folder": "product_19_botol_casa_30ml",
+    "title": "botol casa 30 ml baru murah",
+    "price": "Rp4.500",
+    "sold": "6 terjual",
+    "commission": "45%",
+    "local_images": [
+      "products/product_19_botol_casa_30ml/image_1.jpg",
+      "products/product_19_botol_casa_30ml/image_2.jpg",
+      "products/product_19_botol_casa_30ml/image_3.jpg"
+    ]
+  }
+]
