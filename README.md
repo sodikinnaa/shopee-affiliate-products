@@ -1,230 +1,117 @@
-# 🛍️ Shopee Affiliate Products Catalog
+# 🛍️ Shopee Affiliate Winning Ads Toolkit & Strategy
 
-Koleksi produk Shopee Affiliate beserta aset gambar produk berkualitas tinggi.
+Rekomendasi **Produk Winning Siap Iklan** (Dilengkapi Hook Video TikTok/Reels, Target Audiens, dan Strategi Promosi) hasil analisa otomatis AI.
 
 🔗 **Link Affiliate Utama**: [https://s.shopee.co.id/5ArO3tWgWH](https://s.shopee.co.id/5ArO3tWgWH)
 
 ---
 
-## 📌 Daftar Produk (19 Produk)
+## 🏆 PRODUK WINNING RECOMMENDED (SIAP IKLAN & PROMOSI)
 
-### 1. Zipper bag custom (minimal 100 pcs) Zipper pouch serbaguna free desain + FREE SABLON KANTONG PLASTIK ZIPPER (100pcs)
-- **Harga**: `Rp4.300`
-- **Penjualan**: `10RB+ terjual`
-- **Komisi**: `80%`
-- **Link Pembelian**: [https://s.shopee.co.id/5ArO3tWgWH](https://s.shopee.co.id/5ArO3tWgWH)
+Berikut adalah produk pilihan rekomendasi AI dengan angka penjualan terbaik, komisi terbesar (hingga **80%**), serta potensi konversi iklan yang sangat tinggi:
 
-**Galeri Gambar**:
-![Zipper bag custom (minimal 100 pcs) Zipper pouch serbaguna free desain + FREE SABLON KANTONG PLASTIK ZIPPER (100pcs)](products/product_01_zipper_bag_custom/image_1.jpg) ![Zipper bag custom (minimal 100 pcs) Zipper pouch serbaguna free desain + FREE SABLON KANTONG PLASTIK ZIPPER (100pcs)](products/product_01_zipper_bag_custom/image_2.jpg) ![Zipper bag custom (minimal 100 pcs) Zipper pouch serbaguna free desain + FREE SABLON KANTONG PLASTIK ZIPPER (100pcs)](products/product_01_zipper_bag_custom/image_3.jpg) 
+### 🏆 SUPER WINNING (BEST SELLER & KOMISI 80%)
+**Zipper Bag Custom Sablon (Free Desain)**
 
----
+![Visual Iklan Zipper Bag Custom](./images/ad_zipper_bag.jpg)
 
-### 2. 50 PCS TUTUP BOTOL LONGNECK
-- **Harga**: `Rp8.500`
-- **Penjualan**: `83 terjual`
-- **Komisi**: `71.5%`
-- **Link Pembelian**: [https://s.shopee.co.id/5ArO3tWgWH](https://s.shopee.co.id/5ArO3tWgWH)
-
-**Galeri Gambar**:
-![50 PCS TUTUP BOTOL LONGNECK](products/product_02_tutup_botol_longneck/image_1.jpg) ![50 PCS TUTUP BOTOL LONGNECK](products/product_02_tutup_botol_longneck/image_2.jpg) ![50 PCS TUTUP BOTOL LONGNECK](products/product_02_tutup_botol_longneck/image_3.jpg) 
+- 📂 **Folder Direktori**: [`products/product_01_zipper_bag_custom`](./products/product_01_zipper_bag_custom)
+- 💰 **Harga**: `Rp4.300` | 📈 **Penjualan**: `10RB+ terjual` | 🎁 **Komisi**: `80%`
+- 🔗 **Link Pembelian**: [https://s.shopee.co.id/5ArO3tWgWH](https://s.shopee.co.id/5ArO3tWgWH)
+- 🎯 **Target Audiens**: Pemilik Olshop, Brand Fashion, Hijab, Shoe Care, Packaging UMKM
+- 💡 **Angle / Sudut Pandang Iklan**: Meningkatkan nilai jual brand olshop dengan packaging zipper bag premium berlogo custom modal hanya 4 ribuan.
+- 🎬 **Skrip Hook Content (TikTok / Reels / Ads)**:
+  > ✨ 'Mau packaging olshop kamu kelihatan se-premium brand mall cuma modal 4 ribuan? Pakai zipper bag custom ini, gratis desain dan sablon kantong plastic zipper!'
 
 ---
 
-### 3. Tutup botol Diameter 3cm x 9mm tanpa segel untuk bahan kerajinan
-- **Harga**: `Rp17.999`
-- **Penjualan**: `6 terjual`
-- **Komisi**: `71.5%`
-- **Link Pembelian**: [https://s.shopee.co.id/5ArO3tWgWH](https://s.shopee.co.id/5ArO3tWgWH)
+### ⚡ IMPULSE BUY WINNING (PENJUALAN TINGGI)
+**Botol Parfum Kaca Spray 5ml (Refill Travel Size)**
 
-**Galeri Gambar**:
-![Tutup botol Diameter 3cm x 9mm tanpa segel untuk bahan kerajinan](products/product_03_tutup_botol_3cm/image_1.jpg) ![Tutup botol Diameter 3cm x 9mm tanpa segel untuk bahan kerajinan](products/product_03_tutup_botol_3cm/image_2.jpg) ![Tutup botol Diameter 3cm x 9mm tanpa segel untuk bahan kerajinan](products/product_03_tutup_botol_3cm/image_3.jpg) 
+![Visual Iklan Botol Parfum Spray 5ml](./images/ad_botol_parfum.jpg)
 
----
-
-### 4. Bantal Leher U Empuk Lembut Dan Ringan Bantal Leher U Anti Pegal Neck Pillow Travel
-- **Harga**: `Rp48.599`
-- **Penjualan**: `2 terjual`
-- **Komisi**: `61.5%`
-- **Link Pembelian**: [https://s.shopee.co.id/5ArO3tWgWH](https://s.shopee.co.id/5ArO3tWgWH)
-
-**Galeri Gambar**:
-![Bantal Leher U Empuk Lembut Dan Ringan Bantal Leher U Anti Pegal Neck Pillow Travel](products/product_04_bantal_leher_u/image_1.jpg) ![Bantal Leher U Empuk Lembut Dan Ringan Bantal Leher U Anti Pegal Neck Pillow Travel](products/product_04_bantal_leher_u/image_2.jpg) ![Bantal Leher U Empuk Lembut Dan Ringan Bantal Leher U Anti Pegal Neck Pillow Travel](products/product_04_bantal_leher_u/image_3.jpg) 
+- 📂 **Folder Direktori**: [`products/product_16_botol_parfum_spray_5ml`](./products/product_16_botol_parfum_spray_5ml)
+- 💰 **Harga**: `Rp2.700` | 📈 **Penjualan**: `439 terjual` | 🎁 **Komisi**: `46.5%`
+- 🔗 **Link Pembelian**: [https://s.shopee.co.id/5ArO3tWgWH](https://s.shopee.co.id/5ArO3tWgWH)
+- 🎯 **Target Audiens**: Mahasiswa, Pekerja Kantoran, Traveler, Pecinta Parfum
+- 💡 **Angle / Sudut Pandang Iklan**: Solusi praktis bawa parfum favorit ukuran saku tanpa ribet bawa botol kaca besar yang berat.
+- 🎬 **Skrip Hook Content (TikTok / Reels / Ads)**:
+  > 🎒 'Stop bawa botol parfum segede gaban yang bikin tas berat! Pindahin ke botol refill spray 5ml harga 2 ribuan ini, praktis & anti bocor.'
 
 ---
 
-### 5. Bantal Travel Sandaran Leher Nyaman Bantal Leher U Empuk Lembut Dan Ringan
-- **Harga**: `Rp48.599`
-- **Penjualan**: `1 terjual`
-- **Komisi**: `60%`
-- **Link Pembelian**: [https://s.shopee.co.id/5ArO3tWgWH](https://s.shopee.co.id/5ArO3tWgWH)
+### ⚡ IMPULSE BUY WINNING (GROSIR REFILL)
+**Botol Parfum Kosong 10ml Refill Grosir**
 
-**Galeri Gambar**:
-![Bantal Travel Sandaran Leher Nyaman Bantal Leher U Empuk Lembut Dan Ringan](products/product_05_bantal_travel_sandaran/image_1.jpg) ![Bantal Travel Sandaran Leher Nyaman Bantal Leher U Empuk Lembut Dan Ringan](products/product_05_bantal_travel_sandaran/image_2.jpg) ![Bantal Travel Sandaran Leher Nyaman Bantal Leher U Empuk Lembut Dan Ringan](products/product_05_bantal_travel_sandaran/image_3.jpg) 
-
----
-
-### 6. 4pcs Ring/Strip Karet Roda Koper Pengganti - Material Silikon Berkualitas, 5 Variasi Warna
-- **Harga**: `Rp25.000`
-- **Penjualan**: `7 terjual`
-- **Komisi**: `57.5%`
-- **Link Pembelian**: [https://s.shopee.co.id/5ArO3tWgWH](https://s.shopee.co.id/5ArO3tWgWH)
-
-**Galeri Gambar**:
-![4pcs Ring/Strip Karet Roda Koper Pengganti - Material Silikon Berkualitas, 5 Variasi Warna](products/product_06_ring_karet_roda_koper/image_1.jpg) ![4pcs Ring/Strip Karet Roda Koper Pengganti - Material Silikon Berkualitas, 5 Variasi Warna](products/product_06_ring_karet_roda_koper/image_2.jpg) ![4pcs Ring/Strip Karet Roda Koper Pengganti - Material Silikon Berkualitas, 5 Variasi Warna](products/product_06_ring_karet_roda_koper/image_3.jpg) 
+- 📂 **Folder Direktori**: [`products/product_18_botol_parfum_10ml_refill`](./products/product_18_botol_parfum_10ml_refill)
+- 💰 **Harga**: `Rp2.800` | 📈 **Penjualan**: `289 terjual` | 🎁 **Komisi**: `46.5%`
+- 🔗 **Link Pembelian**: [https://s.shopee.co.id/5ArO3tWgWH](https://s.shopee.co.id/5ArO3tWgWH)
+- 🎯 **Target Audiens**: Penjual Parfum Refill, Penggemar Travel Size, Hobi Koleksi Parfum
+- 💡 **Angle / Sudut Pandang Iklan**: Botol refill hemat grosir, gampang diisi ulang dan cocok untuk sampel atau travel bag.
+- 🎬 **Skrip Hook Content (TikTok / Reels / Ads)**:
+  > 💧 'Sering kehabisan parfum saat bepergian? Simpan cadangan parfum favoritmu di botol 10ml ini. Harga grosir mulai 2 ribuan aja!'
 
 ---
 
-### 7. Masker Tidur Sutra - Bentuk Kontur Wajah, Tali Elastis Lebar Tidak Mengikat Rambut
-- **Harga**: `Rp26.900`
-- **Penjualan**: `4 terjual`
-- **Komisi**: `57.5%`
-- **Link Pembelian**: [https://s.shopee.co.id/5ArO3tWgWH](https://s.shopee.co.id/5ArO3tWgWH)
+### 🔥 HIGH COMMISSION WINNING (KOMISI 71.5%)
+**50 Pcs Tutup Botol Longneck**
 
-**Galeri Gambar**:
-![Masker Tidur Sutra - Bentuk Kontur Wajah, Tali Elastis Lebar Tidak Mengikat Rambut](products/product_07_masker_tidur_sutra/image_1.jpg) ![Masker Tidur Sutra - Bentuk Kontur Wajah, Tali Elastis Lebar Tidak Mengikat Rambut](products/product_07_masker_tidur_sutra/image_2.jpg) ![Masker Tidur Sutra - Bentuk Kontur Wajah, Tali Elastis Lebar Tidak Mengikat Rambut](products/product_07_masker_tidur_sutra/image_3.jpg) 
-
----
-
-### 8. Pelindung Roda Ganda: Koper dan Kursi - Cover Silikon 6 Warna, Set Komplit 8PCS
-- **Harga**: `Rp35.900`
-- **Penjualan**: `1 terjual`
-- **Komisi**: `57.5%`
-- **Link Pembelian**: [https://s.shopee.co.id/5ArO3tWgWH](https://s.shopee.co.id/5ArO3tWgWH)
-
-**Galeri Gambar**:
-![Pelindung Roda Ganda: Koper dan Kursi - Cover Silikon 6 Warna, Set Komplit 8PCS](products/product_08_pelindung_roda_ganda/image_1.jpg) ![Pelindung Roda Ganda: Koper dan Kursi - Cover Silikon 6 Warna, Set Komplit 8PCS](products/product_08_pelindung_roda_ganda/image_2.jpg) ![Pelindung Roda Ganda: Koper dan Kursi - Cover Silikon 6 Warna, Set Komplit 8PCS](products/product_08_pelindung_roda_ganda/image_3.jpg) 
+- 📂 **Folder Direktori**: [`products/product_02_tutup_botol_longneck`](./products/product_02_tutup_botol_longneck)
+- 💰 **Harga**: `Rp8.500` | 📈 **Penjualan**: `83 terjual` | 🎁 **Komisi**: `71.5%`
+- 🔗 **Link Pembelian**: [https://s.shopee.co.id/5ArO3tWgWH](https://s.shopee.co.id/5ArO3tWgWH)
+- 🎯 **Target Audiens**: Produsen Minuman Rumahan, Herbal, Kopi Literan, UMKM Botol Plastik
+- 💡 **Angle / Sudut Pandang Iklan**: Supplies pengemas minuman ramah kantong dengan segel rapat dan komisi jualan affiliate super gurih (71.5%).
+- 🎬 **Skrip Hook Content (TikTok / Reels / Ads)**:
+  > 🥤 'Usaha minuman literan atau herbalmu butuh tutup botol rapat dan presisi? Dapatkan 50 pcs tutup longneck harga 8 ribuan ini!'
 
 ---
 
-### 9. Masker Mata 3D Gelap Total - Memory Foam Lembut, Tali Adjustable Anti Bocor Cahaya
-- **Harga**: `Rp65.000`
-- **Penjualan**: `3 terjual`
-- **Komisi**: `57.5%`
-- **Link Pembelian**: [https://s.shopee.co.id/5ArO3tWgWH](https://s.shopee.co.id/5ArO3tWgWH)
+### 🧳 PROBLEM SOLVER TRAVEL WINNING
+**4pcs Ring Silikon Roda Koper Pengganti**
 
-**Galeri Gambar**:
-![Masker Mata 3D Gelap Total - Memory Foam Lembut, Tali Adjustable Anti Bocor Cahaya](products/product_09_masker_mata_3d/image_1.jpg) ![Masker Mata 3D Gelap Total - Memory Foam Lembut, Tali Adjustable Anti Bocor Cahaya](products/product_09_masker_mata_3d/image_2.jpg) ![Masker Mata 3D Gelap Total - Memory Foam Lembut, Tali Adjustable Anti Bocor Cahaya](products/product_09_masker_mata_3d/image_3.jpg) 
+![Visual Iklan Ring Silikon Roda Koper](./images/ad_roda_koper.jpg)
 
----
-
-### 10. TSA Luggage Key T002 T007 Master Key Kunci Koper Gembok Presisi 4.9g
-- **Harga**: `Rp60.000`
-- **Penjualan**: `-`
-- **Komisi**: `57.5%`
-- **Link Pembelian**: [https://s.shopee.co.id/5ArO3tWgWH](https://s.shopee.co.id/5ArO3tWgWH)
-
-**Galeri Gambar**:
-![TSA Luggage Key T002 T007 Master Key Kunci Koper Gembok Presisi 4.9g](products/product_10_tsa_luggage_key/image_1.jpg) ![TSA Luggage Key T002 T007 Master Key Kunci Koper Gembok Presisi 4.9g](products/product_10_tsa_luggage_key/image_2.jpg) ![TSA Luggage Key T002 T007 Master Key Kunci Koper Gembok Presisi 4.9g](products/product_10_tsa_luggage_key/image_3.jpg) 
+- 📂 **Folder Direktori**: [`products/product_06_ring_karet_roda_koper`](./products/product_06_ring_karet_roda_koper)
+- 💰 **Harga**: `Rp25.000` | 📈 **Penjualan**: `7 terjual` | 🎁 **Komisi**: `57.5%`
+- 🔗 **Link Pembelian**: [https://s.shopee.co.id/5ArO3tWgWH](https://s.shopee.co.id/5ArO3tWgWH)
+- 🎯 **Target Audiens**: Traveler, Frequent Flyer, Pekerja Dinas, Liburan Keluarga
+- 💡 **Angle / Sudut Pandang Iklan**: Melindungi roda koper mahal dari aus/pecah dan meredam suara bising saat ditarik di jalanan kasar.
+- 🎬 **Skrip Hook Content (TikTok / Reels / Ads)**:
+  > ✈️ 'Trik biar roda koper enggak berisik dan enggak cepet rusak saat travelling! Pasang karet silikon roda koper ini, langsung senyap & estetik!'
 
 ---
 
-### 11. Tas Serut Karet Stringbag Multifungsi Pria Wanita Bahan ringkle Ransel Drawstring
-- **Harga**: `Rp35.556`
-- **Penjualan**: `-`
-- **Komisi**: `55%`
-- **Link Pembelian**: [https://s.shopee.co.id/5ArO3tWgWH](https://s.shopee.co.id/5ArO3tWgWH)
+## 💡 STRATEGI IKLAN & KONTEN AFFILIATE
 
-**Galeri Gambar**:
-![Tas Serut Karet Stringbag Multifungsi Pria Wanita Bahan ringkle Ransel Drawstring](products/product_11_tas_serut_stringbag/image_1.jpg) ![Tas Serut Karet Stringbag Multifungsi Pria Wanita Bahan ringkle Ransel Drawstring](products/product_11_tas_serut_stringbag/image_2.jpg) ![Tas Serut Karet Stringbag Multifungsi Pria Wanita Bahan ringkle Ransel Drawstring](products/product_11_tas_serut_stringbag/image_3.jpg) 
+1. **Untuk Produk B2B (Zipper Bag & Tutup Botol)**:
+   - Gunakan platform **TikTok, Instagram Reels, dan FB Ads**.
+   - Buat konten berformat *Problem & Solution* atau *Packing Order / Unboxing Branding*.
+   - Sertakan kata kunci: *"Packaging Olshop Premium", "Grosir Packaging Murah", "Cara Olshop Terlihat Mahal"*.
 
----
+2. **Untuk Produk Travel & Problem Solver (Ring Karet Koper & Masker 3D)**:
+   - Gunakan format video *Life Hacks / Travel Hacks*.
+   - Tunjukkan perbandingan *Before vs After* (Suara koper bising tanpa ring vs Senyap dengan ring silikon).
 
-### 12. Tiket PO LILMOBAG 4 in 1 duffle
-- **Harga**: `Rp50.000`
-- **Penjualan**: `-`
-- **Komisi**: `50%`
-- **Link Pembelian**: [https://s.shopee.co.id/5ArO3tWgWH](https://s.shopee.co.id/5ArO3tWgWH)
-
-**Galeri Gambar**:
-![Tiket PO LILMOBAG 4 in 1 duffle](products/product_12_tiket_po_lilmobag/image_1.jpg) ![Tiket PO LILMOBAG 4 in 1 duffle](products/product_12_tiket_po_lilmobag/image_2.jpg) ![Tiket PO LILMOBAG 4 in 1 duffle](products/product_12_tiket_po_lilmobag/image_3.jpg) 
+3. **Untuk Produk Impulse Buy (Botol Parfum Refill 5ml & 10ml)**:
+   - Targetkan anak muda, wanita, dan pekerja kantor.
+   - Buat video *What's In My Bag* (WIMB) atau tutorial memindahkan parfum kesayangan ke botol travel size.
 
 ---
 
-### 13. Tas Pouch Anak Multifungsi Zipper Waterproof / Tempat Pensil dan alat tulis sekolah premium
-- **Harga**: `Rp116.910`
-- **Penjualan**: `-`
-- **Komisi**: `50%`
-- **Link Pembelian**: [https://s.shopee.co.id/5ArO3tWgWH](https://s.shopee.co.id/5ArO3tWgWH)
+## 📂 KATALOG & DAFTAR PRODUK LENGKAP
 
-**Galeri Gambar**:
-![Tas Pouch Anak Multifungsi Zipper Waterproof / Tempat Pensil dan alat tulis sekolah premium](products/product_13_tas_pouch_anak/image_1.jpg) ![Tas Pouch Anak Multifungsi Zipper Waterproof / Tempat Pensil dan alat tulis sekolah premium](products/product_13_tas_pouch_anak/image_2.jpg) ![Tas Pouch Anak Multifungsi Zipper Waterproof / Tempat Pensil dan alat tulis sekolah premium](products/product_13_tas_pouch_anak/image_3.jpg) 
+Seluruh daftar produk dan folder aset gambar berada di dalam direktori **`products/`**.
 
----
+👉 **[Buka Catalog & List Produk Lengkap di Folder Products](./products/README.md)**
 
-### 14. Tas Bahu WEY, Tas Selempang Kapasitas Besar Soft Puffy Shoulder Bag
-- **Harga**: `Rp84.000`
-- **Penjualan**: `-`
-- **Komisi**: `49%`
-- **Link Pembelian**: [https://s.shopee.co.id/5ArO3tWgWH](https://s.shopee.co.id/5ArO3tWgWH)
-
-**Galeri Gambar**:
-![Tas Bahu WEY, Tas Selempang Kapasitas Besar Soft Puffy Shoulder Bag](products/product_14_tas_bahu_wey/image_1.jpg) ![Tas Bahu WEY, Tas Selempang Kapasitas Besar Soft Puffy Shoulder Bag](products/product_14_tas_bahu_wey/image_2.jpg) ![Tas Bahu WEY, Tas Selempang Kapasitas Besar Soft Puffy Shoulder Bag](products/product_14_tas_bahu_wey/image_3.jpg) 
-
----
-
-### 15. Botol kaca parfum kosong 10ml [ grosir perlusin ] penjualan 12 pcs
-- **Harga**: `Rp32.500`
-- **Penjualan**: `97 terjual`
-- **Komisi**: `46.5%`
-- **Link Pembelian**: [https://s.shopee.co.id/5ArO3tWgWH](https://s.shopee.co.id/5ArO3tWgWH)
-
-**Galeri Gambar**:
-![Botol kaca parfum kosong 10ml [ grosir perlusin ] penjualan 12 pcs](products/product_15_botol_kaca_parfum_10ml/image_1.jpg) ![Botol kaca parfum kosong 10ml [ grosir perlusin ] penjualan 12 pcs](products/product_15_botol_kaca_parfum_10ml/image_2.jpg) ![Botol kaca parfum kosong 10ml [ grosir perlusin ] penjualan 12 pcs](products/product_15_botol_kaca_parfum_10ml/image_3.jpg) 
-
----
-
-### 16. Botol Parfum Kosong Kaca 5ml Spray – Mini Refill Parfum Praktis Dibawa
-- **Harga**: `Rp2.700`
-- **Penjualan**: `439 terjual`
-- **Komisi**: `46.5%`
-- **Link Pembelian**: [https://s.shopee.co.id/5ArO3tWgWH](https://s.shopee.co.id/5ArO3tWgWH)
-
-**Galeri Gambar**:
-![Botol Parfum Kosong Kaca 5ml Spray – Mini Refill Parfum Praktis Dibawa](products/product_16_botol_parfum_spray_5ml/image_1.jpg) ![Botol Parfum Kosong Kaca 5ml Spray – Mini Refill Parfum Praktis Dibawa](products/product_16_botol_parfum_spray_5ml/image_2.jpg) ![Botol Parfum Kosong Kaca 5ml Spray – Mini Refill Parfum Praktis Dibawa](products/product_16_botol_parfum_spray_5ml/image_3.jpg) 
-
----
-
-### 17. botol kosong parfum HERMES ukuran 50ml penjualan satuan
-- **Harga**: `Rp8.000`
-- **Penjualan**: `2 terjual`
-- **Komisi**: `46.5%`
-- **Link Pembelian**: [https://s.shopee.co.id/5ArO3tWgWH](https://s.shopee.co.id/5ArO3tWgWH)
-
-**Galeri Gambar**:
-![botol kosong parfum HERMES ukuran 50ml penjualan satuan](products/product_17_botol_parfum_hermes_50ml/image_1.jpg) ![botol kosong parfum HERMES ukuran 50ml penjualan satuan](products/product_17_botol_parfum_hermes_50ml/image_2.jpg) ![botol kosong parfum HERMES ukuran 50ml penjualan satuan](products/product_17_botol_parfum_hermes_50ml/image_3.jpg) 
-
----
-
-### 18. Botol parfum kosong, buat isi ulang ,ukuran 10ml harga grosir
-- **Harga**: `Rp2.800`
-- **Penjualan**: `289 terjual`
-- **Komisi**: `46.5%`
-- **Link Pembelian**: [https://s.shopee.co.id/5ArO3tWgWH](https://s.shopee.co.id/5ArO3tWgWH)
-
-**Galeri Gambar**:
-![Botol parfum kosong, buat isi ulang ,ukuran 10ml harga grosir](products/product_18_botol_parfum_10ml_refill/image_1.jpg) ![Botol parfum kosong, buat isi ulang ,ukuran 10ml harga grosir](products/product_18_botol_parfum_10ml_refill/image_2.jpg) ![Botol parfum kosong, buat isi ulang ,ukuran 10ml harga grosir](products/product_18_botol_parfum_10ml_refill/image_3.jpg) 
-
----
-
-### 19. botol casa 30 ml baru murah
-- **Harga**: `Rp4.500`
-- **Penjualan**: `6 terjual`
-- **Komisi**: `45%`
-- **Link Pembelian**: [https://s.shopee.co.id/5ArO3tWgWH](https://s.shopee.co.id/5ArO3tWgWH)
-
-**Galeri Gambar**:
-![botol casa 30 ml baru murah](products/product_19_botol_casa_30ml/image_1.jpg) ![botol casa 30 ml baru murah](products/product_19_botol_casa_30ml/image_2.jpg) ![botol casa 30 ml baru murah](products/product_19_botol_casa_30ml/image_3.jpg) 
-
----
-
-
-## 📁 Struktur Direktori
 ```
 .
 ├── products/
+│   ├── README.md (Daftar & Galeri Produk Lengkap)
 │   ├── product_01_zipper_bag_custom/
 │   ├── product_02_tutup_botol_longneck/
-│   └── ...
+│   └── ... (19 folder produk)
 ├── products.json
+├── download_and_setup.py
 └── README.md
 ```

@@ -229,51 +229,196 @@ for item in products_data:
 with open('products.json', 'w', encoding='utf-8') as f:
     json.dump(downloaded_products, f, indent=2, ensure_ascii=False)
 
-# Generate README.md
-readme_content = f"""# 🛍️ Shopee Affiliate Products Catalog
+# Generate Root README.md (AI Generated Winning Ads Toolkit & Strategy)
+categories = {
+    "📦 Custom Packaging & Business Supplies": [1, 2, 3],
+    "✈️ Travel Gear & Problem Solvers": [4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "🛍️ Tas & Pouch Organizers": [13, 14],
+    "🧴 Botol Parfum Kosong & Refill": [15, 16, 17, 18, 19]
+}
 
-Koleksi produk Shopee Affiliate beserta aset gambar produk berkualitas tinggi.
+winning_products = [
+    {
+        "id": 1,
+        "badge": "🏆 SUPER WINNING (BEST SELLER & KOMISI 80%)",
+        "folder": "product_01_zipper_bag_custom",
+        "title": "Zipper Bag Custom Sablon (Free Desain)",
+        "price": "Rp4.300",
+        "sold": "10RB+ terjual",
+        "commission": "80%",
+        "target": "Pemilik Olshop, Brand Fashion, Hijab, Shoe Care, Packaging UMKM",
+        "angle": "Meningkatkan nilai jual brand olshop dengan packaging zipper bag premium berlogo custom modal hanya 4 ribuan.",
+        "hook": "✨ 'Mau packaging olshop kamu kelihatan se-premium brand mall cuma modal 4 ribuan? Pakai zipper bag custom ini, gratis desain dan sablon kantong plastic zipper!'"
+    },
+    {
+        "id": 16,
+        "badge": "⚡ IMPULSE BUY WINNING (PENJUALAN TINGGI)",
+        "folder": "product_16_botol_parfum_spray_5ml",
+        "title": "Botol Parfum Kaca Spray 5ml (Refill Travel Size)",
+        "price": "Rp2.700",
+        "sold": "439 terjual",
+        "commission": "46.5%",
+        "target": "Mahasiswa, Pekerja Kantoran, Traveler, Pecinta Parfum",
+        "angle": "Solusi praktis bawa parfum favorit ukuran saku tanpa ribet bawa botol kaca besar yang berat.",
+        "hook": "🎒 'Stop bawa botol parfum segede gaban yang bikin tas berat! Pindahin ke botol refill spray 5ml harga 2 ribuan ini, praktis & anti bocor.'"
+    },
+    {
+        "id": 18,
+        "badge": "⚡ IMPULSE BUY WINNING (GROSIR REFILL)",
+        "folder": "product_18_botol_parfum_10ml_refill",
+        "title": "Botol Parfum Kosong 10ml Refill Grosir",
+        "price": "Rp2.800",
+        "sold": "289 terjual",
+        "commission": "46.5%",
+        "target": "Penjual Parfum Refill, Penggemar Travel Size, Hobi Koleksi Parfum",
+        "angle": "Botol refill hemat grosir, gampang diisi ulang dan cocok untuk sampel atau travel bag.",
+        "hook": "💧 'Sering kehabisan parfum saat bepergian? Simpan cadangan parfum favoritmu di botol 10ml ini. Harga grosir mulai 2 ribuan aja!'"
+    },
+    {
+        "id": 2,
+        "badge": "🔥 HIGH COMMISSION WINNING (KOMISI 71.5%)",
+        "folder": "product_02_tutup_botol_longneck",
+        "title": "50 Pcs Tutup Botol Longneck",
+        "price": "Rp8.500",
+        "sold": "83 terjual",
+        "commission": "71.5%",
+        "target": "Produsen Minuman Rumahan, Herbal, Kopi Literan, UMKM Botol Plastik",
+        "angle": "Supplies pengemas minuman ramah kantong dengan segel rapat dan komisi jualan affiliate super gurih (71.5%).",
+        "hook": "🥤 'Usaha minuman literan atau herbalmu butuh tutup botol rapat dan presisi? Dapatkan 50 pcs tutup longneck harga 8 ribuan ini!'"
+    },
+    {
+        "id": 6,
+        "badge": "🧳 PROBLEM SOLVER TRAVEL WINNING",
+        "folder": "product_06_ring_karet_roda_koper",
+        "title": "4pcs Ring Silikon Roda Koper Pengganti",
+        "price": "Rp25.000",
+        "sold": "7 terjual",
+        "commission": "57.5%",
+        "target": "Traveler, Frequent Flyer, Pekerja Dinas, Liburan Keluarga",
+        "angle": "Melindungi roda koper mahal dari aus/pecah dan meredam suara bising saat ditarik di jalanan kasar.",
+        "hook": "✈️ 'Trik biar roda koper enggak berisik dan enggak cepet rusak saat travelling! Pasang karet silikon roda koper ini, langsung senyap & estetik!'"
+    }
+]
+
+# Write root README.md (AI Generated Winning Ads Toolkit & Strategy ONLY)
+readme_root = f"""# 🛍️ Shopee Affiliate Winning Ads Toolkit & Strategy
+
+Rekomendasi **Produk Winning Siap Iklan** (Dilengkapi Hook Video TikTok/Reels, Target Audiens, dan Strategi Promosi) hasil analisa otomatis AI.
 
 🔗 **Link Affiliate Utama**: [{AFFILIATE_LINK}]({AFFILIATE_LINK})
 
 ---
 
-## 📌 Daftar Produk ({len(downloaded_products)} Produk)
+## 🏆 PRODUK WINNING RECOMMENDED (SIAP IKLAN & PROMOSI)
+
+Berikut adalah produk pilihan rekomendasi AI dengan angka penjualan terbaik, komisi terbesar (hingga **80%**), serta potensi konversi iklan yang sangat tinggi:
 
 """
 
-for p in downloaded_products:
-    readme_content += f"""### {p['id']}. {p['title']}
-- **Harga**: `{p['price']}`
-- **Penjualan**: `{p['sold']}`
-- **Komisi**: `{p['commission']}`
-- **Link Pembelian**: [{AFFILIATE_LINK}]({AFFILIATE_LINK})
+for w in winning_products:
+    readme_root += f"""### {w['badge']}
+**{w['title']}**
+- 📂 **Folder Direktori**: [`products/{w['folder']}`](./products/{w['folder']})
+- 💰 **Harga**: `{w['price']}` | 📈 **Penjualan**: `{w['sold']}` | 🎁 **Komisi**: `{w['commission']}`
+- 🔗 **Link Pembelian**: [{AFFILIATE_LINK}]({AFFILIATE_LINK})
+- 🎯 **Target Audiens**: {w['target']}
+- 💡 **Angle / Sudut Pandang Iklan**: {w['angle']}
+- 🎬 **Skrip Hook Content (TikTok / Reels / Ads)**:
+  > {w['hook']}
 
-**Galeri Gambar**:
+---
+
 """
-    if p['local_images']:
-        for img in p['local_images']:
-            readme_content += f"![{p['title']}]({img}) "
-        readme_content += "\n\n"
-    else:
-        readme_content += "_Gambar sedang diperbarui_\n\n"
 
-    readme_content += "---\n\n"
+readme_root += """## 💡 STRATEGI IKLAN & KONTEN AFFILIATE
 
-readme_content += """
-## 📁 Struktur Direktori
+1. **Untuk Produk B2B (Zipper Bag & Tutup Botol)**:
+   - Gunakan platform **TikTok, Instagram Reels, dan FB Ads**.
+   - Buat konten berformat *Problem & Solution* atau *Packing Order / Unboxing Branding*.
+   - Sertakan kata kunci: *"Packaging Olshop Premium", "Grosir Packaging Murah", "Cara Olshop Terlihat Mahal"*.
+
+2. **Untuk Produk Travel & Problem Solver (Ring Karet Koper & Masker 3D)**:
+   - Gunakan format video *Life Hacks / Travel Hacks*.
+   - Tunjukkan perbandingan *Before vs After* (Suara koper bising tanpa ring vs Senyap dengan ring silikon).
+
+3. **Untuk Produk Impulse Buy (Botol Parfum Refill 5ml & 10ml)**:
+   - Targetkan anak muda, wanita, dan pekerja kantor.
+   - Buat video *What's In My Bag* (WIMB) atau tutorial memindahkan parfum kesayangan ke botol travel size.
+
+---
+
+## 📂 KATALOG & DAFTAR PRODUK LENGKAP
+
+Seluruh daftar produk dan folder aset gambar berada di dalam direktori **`products/`**.
+
+👉 **[Buka Catalog & List Produk Lengkap di Folder Products](./products/README.md)**
+
 ```
 .
 ├── products/
+│   ├── README.md (Daftar & Galeri Produk Lengkap)
 │   ├── product_01_zipper_bag_custom/
 │   ├── product_02_tutup_botol_longneck/
-│   └── ...
+│   └── ... (19 folder produk)
 ├── products.json
+├── download_and_setup.py
 └── README.md
 ```
 """
 
 with open('README.md', 'w', encoding='utf-8') as f:
-    f.write(readme_content)
+    f.write(readme_root)
 
-print("Finished processing all products and generated README.md & products.json!")
+# Generate products/README.md (Full Product List & Gallery inside products folder)
+prod_by_id = {p['id']: p for p in downloaded_products}
+
+readme_products = f"""# 📦 Katalog & Daftar Produk Lengkap
+
+Semua aset gambar (minimal 3 foto resolusi tinggi per produk) tersimpan rapi di dalam masing-masing sub-folder direktori `products/`.
+
+🔗 **Link Affiliate Utama**: [{AFFILIATE_LINK}]({AFFILIATE_LINK})
+
+---
+
+## 📂 DAFTAR PRODUK PER KATEGORI
+
+"""
+
+for cat_name, ids in categories.items():
+    readme_products += f"### {cat_name}\n\n"
+    readme_products += "| No | Folder Direktori | Nama Produk | Harga | Penjualan | Komisi | Link Produk |\n"
+    readme_products += "|---|---|---|---|---|---|---|\n"
+    for pid in ids:
+        p = prod_by_id[pid]
+        readme_products += f"| {p['id']} | [`{p['folder']}`](./{p['folder']}) | {p['title']} | `{p['price']}` | `{p['sold']}` | **{p['commission']}** | [Beli Sekarang]({AFFILIATE_LINK}) |\n"
+    readme_products += "\n"
+
+readme_products += "---\n\n## 📸 RINCIAN GALERI & DETIL PRODUK PER FOLDER\n\n"
+
+for p in downloaded_products:
+    readme_products += f"""### {p['id']}. {p['title']}
+- 📂 **Lokasi Folder**: [`{p['folder']}`](./{p['folder']})
+- 💰 **Harga**: `{p['price']}`
+- 📈 **Penjualan**: `{p['sold']}`
+- 🎁 **Komisi**: `{p['commission']}`
+- 🔗 **Link Pembelian Affiliate**: [{AFFILIATE_LINK}]({AFFILIATE_LINK})
+
+**Galeri Gambar Produk**:
+"""
+    if p['local_images']:
+        for img in p['local_images']:
+            # adjust image path to be relative to products directory
+            rel_img = img.replace('products/', './')
+            readme_products += f"![{p['title']}]({rel_img}) "
+        readme_products += "\n\n"
+    else:
+        readme_products += "_Gambar sedang diperbarui_\n\n"
+
+    readme_products += "---\n\n"
+
+with open('products/README.md', 'w', encoding='utf-8') as f:
+    f.write(readme_products)
+
+print("Finished processing all products and generated root README.md & products/README.md & products.json!")
+
+
