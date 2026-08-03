@@ -1,0 +1,515 @@
+[
+  {
+    "product_id": 1,
+    "folder": "product_01_zipper_bag_custom",
+    "campaign_name": "[AFF] Campaign - Product #01 (product_01_zipper_bag_custom)",
+    "campaign_status": "PAUSED",
+    "objective": "OUTBOUND_CLICKS",
+    "adset_name": "AdSet - Audience Target - Product #01",
+    "adset_status": "PAUSED",
+    "daily_budget_idr": 25000,
+    "targeting": {
+      "min_age": 21,
+      "max_age": 45,
+      "gender": "ALL",
+      "interests": "Shopping and fashion, Clothing, Boutique, Small business, E-commerce"
+    },
+    "ad_name": "Ad Creative - Product #01",
+    "ad_status": "PAUSED",
+    "creative": {
+      "headline": "📦 Zipper Bag Custom Olshop (Free Desain & Sablon)",
+      "primary_text": "Pengen brand fashion / olshop kamu kelihatan se-premium brand mall? 🛍️✨\n\nUpgrade packaging olshop kamu pakai Zipper Bag Custom berlogo brand sendiri!\n✅ FREE Desain Logo & Sablon 1 Warna\n✅ Plastik Zipper Premium Frosted & Durable\n✅ Cetak Minimal Cuma 100 Pcs (Rp4.300/pcs)\n\nBikin pembeli makin percaya dan repeat order terus! Klik Beli Sekarang di Shopee! 👇\nhttps://s.shopee.co.id/8fRGG2Smxy",
+      "description": "🌟 10RB+ terjual | Komisi Spesial 80%",
+      "call_to_action": "SHOP_NOW",
+      "destination_link": "https://s.shopee.co.id/8fRGG2Smxy",
+      "image_url": "https://down-ws-id.img.susercontent.com/id-11134207-82252-mh7ui2tt7t3h9f.webp",
+      "local_image": "products/product_01_zipper_bag_custom/main_image.webp"
+    }
+  },
+  {
+    "product_id": 2,
+    "folder": "product_02_tutup_botol_longneck",
+    "campaign_name": "[AFF] Campaign - Product #02 (product_02_tutup_botol_longneck)",
+    "campaign_status": "PAUSED",
+    "objective": "OUTBOUND_CLICKS",
+    "adset_name": "AdSet - Audience Target - Product #02",
+    "adset_status": "PAUSED",
+    "daily_budget_idr": 25000,
+    "targeting": {
+      "min_age": 18,
+      "max_age": 50,
+      "gender": "ALL",
+      "interests": "Online shopping, Shopee, E-commerce, Discount shopping"
+    },
+    "ad_name": "Ad Creative - Product #02",
+    "ad_status": "PAUSED",
+    "creative": {
+      "headline": "🛍️ Promo Hemat Shopee: 50 PCS TUTUP BOTOL LONGNECK",
+      "primary_text": "Dapatkan penawaran terbaik untuk 50 PCS TUTUP BOTOL LONGNECK! 🌟\n\n✅ Kualitas terjamin\n✅ Harga terbaik cuma Rp8.500\n✅ Pengiriman cepat & promo komisi Shopee\n\nKlik Beli Sekarang sebelum kehabisan! 👇\nhttps://s.shopee.co.id/19Hw7Epyt",
+      "description": "✨ Promo Shopee | 83 terjual",
+      "call_to_action": "SHOP_NOW",
+      "destination_link": "https://s.shopee.co.id/19Hw7Epyt",
+      "image_url": "https://down-ws-id.img.susercontent.com/id-11134207-7rasj-m2m2357c2ohe21.webp",
+      "local_image": "products/product_02_tutup_botol_longneck/main_image.webp"
+    }
+  },
+  {
+    "product_id": 3,
+    "folder": "product_03_tutup_botol_3cm",
+    "campaign_name": "[AFF] Campaign - Product #03 (product_03_tutup_botol_3cm)",
+    "campaign_status": "PAUSED",
+    "objective": "OUTBOUND_CLICKS",
+    "adset_name": "AdSet - Audience Target - Product #03",
+    "adset_status": "PAUSED",
+    "daily_budget_idr": 25000,
+    "targeting": {
+      "min_age": 18,
+      "max_age": 50,
+      "gender": "ALL",
+      "interests": "Online shopping, Shopee, E-commerce, Discount shopping"
+    },
+    "ad_name": "Ad Creative - Product #03",
+    "ad_status": "PAUSED",
+    "creative": {
+      "headline": "🛍️ Promo Hemat Shopee: Tutup botol Diameter 3cm x 9mm tanpa seg",
+      "primary_text": "Dapatkan penawaran terbaik untuk Tutup botol Diameter 3cm x 9mm tanpa segel untuk b! 🌟\n\n✅ Kualitas terjamin\n✅ Harga terbaik cuma Rp17.999\n✅ Pengiriman cepat & promo komisi Shopee\n\nKlik Beli Sekarang sebelum kehabisan! 👇\nhttps://s.shopee.co.id/9pdDeBox53",
+      "description": "✨ Promo Shopee | 6 terjual",
+      "call_to_action": "SHOP_NOW",
+      "destination_link": "https://s.shopee.co.id/9pdDeBox53",
+      "image_url": "https://down-ws-id.img.susercontent.com/id-11134207-7rasm-m29uularhzgj74.webp",
+      "local_image": "products/product_03_tutup_botol_3cm/main_image.webp"
+    }
+  },
+  {
+    "product_id": 4,
+    "folder": "product_04_bantal_leher_u",
+    "campaign_name": "[AFF] Campaign - Product #04 (product_04_bantal_leher_u)",
+    "campaign_status": "PAUSED",
+    "objective": "OUTBOUND_CLICKS",
+    "adset_name": "AdSet - Audience Target - Product #04",
+    "adset_status": "PAUSED",
+    "daily_budget_idr": 25000,
+    "targeting": {
+      "min_age": 20,
+      "max_age": 50,
+      "gender": "ALL",
+      "interests": "Travel, Flight, Public transport, Personal comfort"
+    },
+    "ad_name": "Ad Creative - Product #04",
+    "ad_status": "PAUSED",
+    "creative": {
+      "headline": "🛌 Bantal Travel Leher U Empuk & Anti Pegal — Rp48.599",
+      "primary_text": "Sering pegal leher pas perjalanan jauh / perjalanan bisnis? 🚗✈️\n\nGunakan Bantal Leher U Premium ini!\n✅ Busa empuk & lembut tidak gampang kempes\n✅ Menopang leher dengan sempurna\n✅ Ringan dan mudah dibawa kemana-mana\n\nKlik Beli Sekarang di Shopee! 👇\nhttps://s.shopee.co.id/8pkgSM6AFE",
+      "description": "✨ Comfort Travel Gear | Komisi 61.5%",
+      "call_to_action": "SHOP_NOW",
+      "destination_link": "https://s.shopee.co.id/8pkgSM6AFE",
+      "image_url": "https://down-ws-id.img.susercontent.com/id-11134207-7rbka-mazf75hv517v3f.webp",
+      "local_image": "products/product_04_bantal_leher_u/main_image.webp"
+    }
+  },
+  {
+    "product_id": 5,
+    "folder": "product_05_bantal_travel_sandaran",
+    "campaign_name": "[AFF] Campaign - Product #05 (product_05_bantal_travel_sandaran)",
+    "campaign_status": "PAUSED",
+    "objective": "OUTBOUND_CLICKS",
+    "adset_name": "AdSet - Audience Target - Product #05",
+    "adset_status": "PAUSED",
+    "daily_budget_idr": 25000,
+    "targeting": {
+      "min_age": 20,
+      "max_age": 50,
+      "gender": "ALL",
+      "interests": "Travel, Flight, Public transport, Personal comfort"
+    },
+    "ad_name": "Ad Creative - Product #05",
+    "ad_status": "PAUSED",
+    "creative": {
+      "headline": "🛌 Bantal Travel Leher U Empuk & Anti Pegal — Rp48.599",
+      "primary_text": "Sering pegal leher pas perjalanan jauh / perjalanan bisnis? 🚗✈️\n\nGunakan Bantal Leher U Premium ini!\n✅ Busa empuk & lembut tidak gampang kempes\n✅ Menopang leher dengan sempurna\n✅ Ringan dan mudah dibawa kemana-mana\n\nKlik Beli Sekarang di Shopee! 👇\nhttps://s.shopee.co.id/6pzc4gR2ui",
+      "description": "✨ Comfort Travel Gear | Komisi 60%",
+      "call_to_action": "SHOP_NOW",
+      "destination_link": "https://s.shopee.co.id/6pzc4gR2ui",
+      "image_url": "https://down-ws-id.img.susercontent.com/id-11134207-7ra0l-mb3ieu6qojncb8.webp",
+      "local_image": "products/product_05_bantal_travel_sandaran/main_image.webp"
+    }
+  },
+  {
+    "product_id": 6,
+    "folder": "product_06_ring_karet_roda_koper",
+    "campaign_name": "[AFF] Campaign - Product #06 (product_06_ring_karet_roda_koper)",
+    "campaign_status": "PAUSED",
+    "objective": "OUTBOUND_CLICKS",
+    "adset_name": "AdSet - Audience Target - Product #06",
+    "adset_status": "PAUSED",
+    "daily_budget_idr": 25000,
+    "targeting": {
+      "min_age": 22,
+      "max_age": 50,
+      "gender": "ALL",
+      "interests": "Frequent travelers, Air travel, Luggage, Vacation, Tourism"
+    },
+    "ad_name": "Ad Creative - Product #06",
+    "ad_status": "PAUSED",
+    "creative": {
+      "headline": "✈️ Aksesoris Travel & Koper Premium — Rp25.000",
+      "primary_text": "Travel hacks wajib buat kamu yang sering berpergian! 🧳✨\n\nDapatkan 4pcs Ring/Strip Karet Roda Koper Pengganti - Mater dengan kualitas terbaik!\n✅ Awet & tahan lama\n✅ Praktis dan mudah digunakan\n✅ Solusi koper aman & nyaman\n\nDapatkan promo khusus hari ini di Shopee! 👇\nhttps://s.shopee.co.id/3qM0VApFm2",
+      "description": "⭐ Travel Hack Wajib | 7 terjual di Shopee",
+      "call_to_action": "SHOP_NOW",
+      "destination_link": "https://s.shopee.co.id/3qM0VApFm2",
+      "image_url": "https://down-ws-id.img.susercontent.com/id-11134207-822wj-mnxq4kdcxkw0ee.webp",
+      "local_image": "products/product_06_ring_karet_roda_koper/main_image.webp"
+    }
+  },
+  {
+    "product_id": 7,
+    "folder": "product_07_masker_tidur_sutra",
+    "campaign_name": "[AFF] Campaign - Product #07 (product_07_masker_tidur_sutra)",
+    "campaign_status": "PAUSED",
+    "objective": "OUTBOUND_CLICKS",
+    "adset_name": "AdSet - Audience Target - Product #07",
+    "adset_status": "PAUSED",
+    "daily_budget_idr": 25000,
+    "targeting": {
+      "min_age": 18,
+      "max_age": 50,
+      "gender": "ALL",
+      "interests": "Online shopping, Shopee, E-commerce, Discount shopping"
+    },
+    "ad_name": "Ad Creative - Product #07",
+    "ad_status": "PAUSED",
+    "creative": {
+      "headline": "🛍️ Promo Hemat Shopee: Masker Tidur Sutra - Bentuk Kontur Wajah",
+      "primary_text": "Dapatkan penawaran terbaik untuk Masker Tidur Sutra - Bentuk Kontur Wajah, Tali Ela! 🌟\n\n✅ Kualitas terjamin\n✅ Harga terbaik cuma Rp26.900\n✅ Pengiriman cepat & promo komisi Shopee\n\nKlik Beli Sekarang sebelum kehabisan! 👇\nhttps://s.shopee.co.id/1Vy5itBkQu",
+      "description": "✨ Promo Shopee | 4 terjual",
+      "call_to_action": "SHOP_NOW",
+      "destination_link": "https://s.shopee.co.id/1Vy5itBkQu",
+      "image_url": "https://down-ws-id.img.susercontent.com/sg-11134201-823q1-mp33mu93fev426.webp",
+      "local_image": "products/product_07_masker_tidur_sutra/main_image.webp"
+    }
+  },
+  {
+    "product_id": 8,
+    "folder": "product_08_pelindung_roda_ganda",
+    "campaign_name": "[AFF] Campaign - Product #08 (product_08_pelindung_roda_ganda)",
+    "campaign_status": "PAUSED",
+    "objective": "OUTBOUND_CLICKS",
+    "adset_name": "AdSet - Audience Target - Product #08",
+    "adset_status": "PAUSED",
+    "daily_budget_idr": 25000,
+    "targeting": {
+      "min_age": 22,
+      "max_age": 50,
+      "gender": "ALL",
+      "interests": "Frequent travelers, Air travel, Luggage, Vacation, Tourism"
+    },
+    "ad_name": "Ad Creative - Product #08",
+    "ad_status": "PAUSED",
+    "creative": {
+      "headline": "✈️ Aksesoris Travel & Koper Premium — Rp35.900",
+      "primary_text": "Travel hacks wajib buat kamu yang sering berpergian! 🧳✨\n\nDapatkan Pelindung Roda Ganda: Koper dan Kursi - Cover Sili dengan kualitas terbaik!\n✅ Awet & tahan lama\n✅ Praktis dan mudah digunakan\n✅ Solusi koper aman & nyaman\n\nDapatkan promo khusus hari ini di Shopee! 👇\nhttps://s.shopee.co.id/6VMlg55IGw",
+      "description": "⭐ Travel Hack Wajib | 1 terjual di Shopee",
+      "call_to_action": "SHOP_NOW",
+      "destination_link": "https://s.shopee.co.id/6VMlg55IGw",
+      "image_url": "https://down-ws-id.img.susercontent.com/id-11134207-822wu-mnxq4kd8k9ac4f.webp",
+      "local_image": "products/product_08_pelindung_roda_ganda/main_image.webp"
+    }
+  },
+  {
+    "product_id": 9,
+    "folder": "product_09_masker_mata_3d",
+    "campaign_name": "[AFF] Campaign - Product #09 (product_09_masker_mata_3d)",
+    "campaign_status": "PAUSED",
+    "objective": "OUTBOUND_CLICKS",
+    "adset_name": "AdSet - Audience Target - Product #09",
+    "adset_status": "PAUSED",
+    "daily_budget_idr": 25000,
+    "targeting": {
+      "min_age": 18,
+      "max_age": 50,
+      "gender": "ALL",
+      "interests": "Online shopping, Shopee, E-commerce, Discount shopping"
+    },
+    "ad_name": "Ad Creative - Product #09",
+    "ad_status": "PAUSED",
+    "creative": {
+      "headline": "🛍️ Promo Hemat Shopee: Masker Mata 3D Gelap Total - Memory Foam",
+      "primary_text": "Dapatkan penawaran terbaik untuk Masker Mata 3D Gelap Total - Memory Foam Lembut, T! 🌟\n\n✅ Kualitas terjamin\n✅ Harga terbaik cuma Rp65.000\n✅ Pengiriman cepat & promo komisi Shopee\n\nKlik Beli Sekarang sebelum kehabisan! 👇\nhttps://s.shopee.co.id/19Hw8jEQ9",
+      "description": "✨ Promo Shopee | 3 terjual",
+      "call_to_action": "SHOP_NOW",
+      "destination_link": "https://s.shopee.co.id/19Hw8jEQ9",
+      "image_url": "https://down-ws-id.img.susercontent.com/id-11134207-822wr-mmh7gy33wg04a5.webp",
+      "local_image": "products/product_09_masker_mata_3d/main_image.webp"
+    }
+  },
+  {
+    "product_id": 10,
+    "folder": "product_10_tsa_luggage_key",
+    "campaign_name": "[AFF] Campaign - Product #10 (product_10_tsa_luggage_key)",
+    "campaign_status": "PAUSED",
+    "objective": "OUTBOUND_CLICKS",
+    "adset_name": "AdSet - Audience Target - Product #10",
+    "adset_status": "PAUSED",
+    "daily_budget_idr": 25000,
+    "targeting": {
+      "min_age": 22,
+      "max_age": 50,
+      "gender": "ALL",
+      "interests": "Frequent travelers, Air travel, Luggage, Vacation, Tourism"
+    },
+    "ad_name": "Ad Creative - Product #10",
+    "ad_status": "PAUSED",
+    "creative": {
+      "headline": "✈️ Aksesoris Travel & Koper Premium — Rp60.000",
+      "primary_text": "Travel hacks wajib buat kamu yang sering berpergian! 🧳✨\n\nDapatkan TSA Luggage Key T002 T007 Master Key Kunci Koper G dengan kualitas terbaik!\n✅ Awet & tahan lama\n✅ Praktis dan mudah digunakan\n✅ Solusi koper aman & nyaman\n\nDapatkan promo khusus hari ini di Shopee! 👇\nhttps://s.shopee.co.id/8AUzf9Ui2L",
+      "description": "⭐ Travel Hack Wajib | - di Shopee",
+      "call_to_action": "SHOP_NOW",
+      "destination_link": "https://s.shopee.co.id/8AUzf9Ui2L",
+      "image_url": "https://down-ws-id.img.susercontent.com/sg-11134201-8259o-mr8j7gdrkzk592.webp",
+      "local_image": "products/product_10_tsa_luggage_key/main_image.webp"
+    }
+  },
+  {
+    "product_id": 11,
+    "folder": "product_11_tas_serut_stringbag",
+    "campaign_name": "[AFF] Campaign - Product #11 (product_11_tas_serut_stringbag)",
+    "campaign_status": "PAUSED",
+    "objective": "OUTBOUND_CLICKS",
+    "adset_name": "AdSet - Audience Target - Product #11",
+    "adset_status": "PAUSED",
+    "daily_budget_idr": 25000,
+    "targeting": {
+      "min_age": 22,
+      "max_age": 50,
+      "gender": "ALL",
+      "interests": "Frequent travelers, Air travel, Luggage, Vacation, Tourism"
+    },
+    "ad_name": "Ad Creative - Product #11",
+    "ad_status": "PAUSED",
+    "creative": {
+      "headline": "✈️ Aksesoris Travel & Koper Premium — Rp35.556",
+      "primary_text": "Travel hacks wajib buat kamu yang sering berpergian! 🧳✨\n\nDapatkan Tas Serut Karet Stringbag Multifungsi Pria Wanita  dengan kualitas terbaik!\n✅ Awet & tahan lama\n✅ Praktis dan mudah digunakan\n✅ Solusi koper aman & nyaman\n\nDapatkan promo khusus hari ini di Shopee! 👇\nhttps://s.shopee.co.id/5VUEUFsg9g",
+      "description": "⭐ Travel Hack Wajib | - di Shopee",
+      "call_to_action": "SHOP_NOW",
+      "destination_link": "https://s.shopee.co.id/5VUEUFsg9g",
+      "image_url": "https://down-ws-id.img.susercontent.com/id-11134207-822ws-mpa5a7r1o45qc0.webp",
+      "local_image": "products/product_11_tas_serut_stringbag/main_image.webp"
+    }
+  },
+  {
+    "product_id": 12,
+    "folder": "product_12_tiket_po_lilmobag",
+    "campaign_name": "[AFF] Campaign - Product #12 (product_12_tiket_po_lilmobag)",
+    "campaign_status": "PAUSED",
+    "objective": "OUTBOUND_CLICKS",
+    "adset_name": "AdSet - Audience Target - Product #12",
+    "adset_status": "PAUSED",
+    "daily_budget_idr": 25000,
+    "targeting": {
+      "min_age": 18,
+      "max_age": 50,
+      "gender": "ALL",
+      "interests": "Online shopping, Shopee, E-commerce, Discount shopping"
+    },
+    "ad_name": "Ad Creative - Product #12",
+    "ad_status": "PAUSED",
+    "creative": {
+      "headline": "🛍️ Promo Hemat Shopee: Tiket PO LILMOBAG 4 in 1 duffle",
+      "primary_text": "Dapatkan penawaran terbaik untuk Tiket PO LILMOBAG 4 in 1 duffle! 🌟\n\n✅ Kualitas terjamin\n✅ Harga terbaik cuma Rp50.000\n✅ Pengiriman cepat & promo komisi Shopee\n\nKlik Beli Sekarang sebelum kehabisan! 👇\nhttps://s.shopee.co.id/3g2aItBpI6",
+      "description": "✨ Promo Shopee | -",
+      "call_to_action": "SHOP_NOW",
+      "destination_link": "https://s.shopee.co.id/3g2aItBpI6",
+      "image_url": "https://down-ws-id.img.susercontent.com/id-11134207-7r98q-m01jaokitbgn95.webp",
+      "local_image": "products/product_12_tiket_po_lilmobag/main_image.webp"
+    }
+  },
+  {
+    "product_id": 13,
+    "folder": "product_13_tas_pouch_anak",
+    "campaign_name": "[AFF] Campaign - Product #13 (product_13_tas_pouch_anak)",
+    "campaign_status": "PAUSED",
+    "objective": "OUTBOUND_CLICKS",
+    "adset_name": "AdSet - Audience Target - Product #13",
+    "adset_status": "PAUSED",
+    "daily_budget_idr": 25000,
+    "targeting": {
+      "min_age": 18,
+      "max_age": 40,
+      "gender": "ALL",
+      "interests": "Fashion accessories, Backpack, Shopping, Lifestyle"
+    },
+    "ad_name": "Ad Creative - Product #13",
+    "ad_status": "PAUSED",
+    "creative": {
+      "headline": "🎒 Tas Pouch Anak Multifungsi Zipper Waterproof  — Rp116.910",
+      "primary_text": "Lagi cari tas / pouch serbaguna dengan kualitas terbaik & harga terjangkau? 🛍️✨\n\nCek produk Tas Pouch Anak Multifungsi Zipper Waterproof / Tem ini!\n✅ Bahan berkualitas, awet & tahan lama\n✅ Desain simpel, stylish & praktis\n✅ Harga hemat cuma Rp116.910\n\nStok terbatas! Buruan order sekarang di Shopee! 👇\nhttps://s.shopee.co.id/qiOvgibx3",
+      "description": "🔥 Rekomendasi Shopee | -",
+      "call_to_action": "SHOP_NOW",
+      "destination_link": "https://s.shopee.co.id/qiOvgibx3",
+      "image_url": "https://down-ws-id.img.susercontent.com/id-11134207-822wr-mplqr2q20c9a1d.webp",
+      "local_image": "products/product_13_tas_pouch_anak/main_image.webp"
+    }
+  },
+  {
+    "product_id": 14,
+    "folder": "product_14_tas_bahu_wey",
+    "campaign_name": "[AFF] Campaign - Product #14 (product_14_tas_bahu_wey)",
+    "campaign_status": "PAUSED",
+    "objective": "OUTBOUND_CLICKS",
+    "adset_name": "AdSet - Audience Target - Product #14",
+    "adset_status": "PAUSED",
+    "daily_budget_idr": 25000,
+    "targeting": {
+      "min_age": 18,
+      "max_age": 40,
+      "gender": "ALL",
+      "interests": "Fashion accessories, Backpack, Shopping, Lifestyle"
+    },
+    "ad_name": "Ad Creative - Product #14",
+    "ad_status": "PAUSED",
+    "creative": {
+      "headline": "🎒 Tas Bahu WEY, Tas Selempang Kapasitas Besar y — Rp84.000",
+      "primary_text": "Lagi cari tas / pouch serbaguna dengan kualitas terbaik & harga terjangkau? 🛍️✨\n\nCek produk Tas Bahu WEY, Tas Selempang Kapasitas Besar yang D ini!\n✅ Bahan berkualitas, awet & tahan lama\n✅ Desain simpel, stylish & praktis\n✅ Harga hemat cuma Rp84.000\n\nStok terbatas! Buruan order sekarang di Shopee! 👇\nhttps://s.shopee.co.id/2LXCiRyLir",
+      "description": "🔥 Rekomendasi Shopee | -",
+      "call_to_action": "SHOP_NOW",
+      "destination_link": "https://s.shopee.co.id/2LXCiRyLir",
+      "image_url": "https://down-ws-id.img.susercontent.com/id-11134207-822wu-mpgi72d4fuha8e.webp",
+      "local_image": "products/product_14_tas_bahu_wey/main_image.webp"
+    }
+  },
+  {
+    "product_id": 15,
+    "folder": "product_15_botol_kaca_parfum_10ml",
+    "campaign_name": "[AFF] Campaign - Product #15 (product_15_botol_kaca_parfum_10ml)",
+    "campaign_status": "PAUSED",
+    "objective": "OUTBOUND_CLICKS",
+    "adset_name": "AdSet - Audience Target - Product #15",
+    "adset_status": "PAUSED",
+    "daily_budget_idr": 25000,
+    "targeting": {
+      "min_age": 18,
+      "max_age": 40,
+      "gender": "ALL",
+      "interests": "Perfume, Fragrance, Cosmetics, Beauty, Travel accessories"
+    },
+    "ad_name": "Ad Creative - Product #15",
+    "ad_status": "PAUSED",
+    "creative": {
+      "headline": "🌸 Botol Refill Parfum Travel Size — Rp32.500",
+      "primary_text": "Ribet bawa botol parfum kaca gede pas mau nongkrong atau ngantor? 🎒💨\n\nSolusinya pakai Botol kaca parfum kosong 10ml [ grosir p ini!\n✅ Ukuran saku pas di kantong & tas\n✅ Mudah diisi ulang, anti bocor & anti pecah\n✅ Harga super murah cuma Rp32.500!\n\nTetap wangi seharian tanpa bikin tas berat. Dapatkan sekarang di Shopee! ✨ 👇\nhttps://s.shopee.co.id/1gHVvEE9gb",
+      "description": "🔥 Best Seller Travel Essential | 97 terjual",
+      "call_to_action": "SHOP_NOW",
+      "destination_link": "https://s.shopee.co.id/1gHVvEE9gb",
+      "image_url": "https://down-ws-id.img.susercontent.com/id-11134207-7ra0i-mcdl6mo4work69.webp",
+      "local_image": "products/product_15_botol_kaca_parfum_10ml/main_image.webp"
+    }
+  },
+  {
+    "product_id": 16,
+    "folder": "product_16_botol_parfum_spray_5ml",
+    "campaign_name": "[AFF] Campaign - Product #16 (product_16_botol_parfum_spray_5ml)",
+    "campaign_status": "PAUSED",
+    "objective": "OUTBOUND_CLICKS",
+    "adset_name": "AdSet - Audience Target - Product #16",
+    "adset_status": "PAUSED",
+    "daily_budget_idr": 25000,
+    "targeting": {
+      "min_age": 18,
+      "max_age": 40,
+      "gender": "ALL",
+      "interests": "Perfume, Fragrance, Cosmetics, Beauty, Travel accessories"
+    },
+    "ad_name": "Ad Creative - Product #16",
+    "ad_status": "PAUSED",
+    "creative": {
+      "headline": "🌸 Botol Refill Parfum Travel Size — Rp2.700",
+      "primary_text": "Ribet bawa botol parfum kaca gede pas mau nongkrong atau ngantor? 🎒💨\n\nSolusinya pakai Botol Parfum Kosong Kaca 5ml Spray – Min ini!\n✅ Ukuran saku pas di kantong & tas\n✅ Mudah diisi ulang, anti bocor & anti pecah\n✅ Harga super murah cuma Rp2.700!\n\nTetap wangi seharian tanpa bikin tas berat. Dapatkan sekarang di Shopee! ✨ 👇\nhttps://s.shopee.co.id/6fgBsQ8aw7",
+      "description": "🔥 Best Seller Travel Essential | 439 terjual",
+      "call_to_action": "SHOP_NOW",
+      "destination_link": "https://s.shopee.co.id/6fgBsQ8aw7",
+      "image_url": "https://down-ws-id.img.susercontent.com/id-11134207-822wm-mlkmv6g8evprf7.webp",
+      "local_image": "products/product_16_botol_parfum_spray_5ml/main_image.webp"
+    }
+  },
+  {
+    "product_id": 17,
+    "folder": "product_17_botol_parfum_hermes_50ml",
+    "campaign_name": "[AFF] Campaign - Product #17 (product_17_botol_parfum_hermes_50ml)",
+    "campaign_status": "PAUSED",
+    "objective": "OUTBOUND_CLICKS",
+    "adset_name": "AdSet - Audience Target - Product #17",
+    "adset_status": "PAUSED",
+    "daily_budget_idr": 25000,
+    "targeting": {
+      "min_age": 18,
+      "max_age": 40,
+      "gender": "ALL",
+      "interests": "Perfume, Fragrance, Cosmetics, Beauty, Travel accessories"
+    },
+    "ad_name": "Ad Creative - Product #17",
+    "ad_status": "PAUSED",
+    "creative": {
+      "headline": "🌸 Botol Refill Parfum Travel Size — Rp8.000",
+      "primary_text": "Ribet bawa botol parfum kaca gede pas mau nongkrong atau ngantor? 🎒💨\n\nSolusinya pakai botol kosong parfum HERMES ukuran 50ml p ini!\n✅ Ukuran saku pas di kantong & tas\n✅ Mudah diisi ulang, anti bocor & anti pecah\n✅ Harga super murah cuma Rp8.000!\n\nTetap wangi seharian tanpa bikin tas berat. Dapatkan sekarang di Shopee! ✨ 👇\nhttps://s.shopee.co.id/AAG42rHGkM",
+      "description": "🔥 Best Seller Travel Essential | 2 terjual",
+      "call_to_action": "SHOP_NOW",
+      "destination_link": "https://s.shopee.co.id/AAG42rHGkM",
+      "image_url": "https://down-ws-id.img.susercontent.com/id-11134207-81ztn-mfb5byvrponh22.webp",
+      "local_image": "products/product_17_botol_parfum_hermes_50ml/main_image.webp"
+    }
+  },
+  {
+    "product_id": 18,
+    "folder": "product_18_botol_parfum_10ml_refill",
+    "campaign_name": "[AFF] Campaign - Product #18 (product_18_botol_parfum_10ml_refill)",
+    "campaign_status": "PAUSED",
+    "objective": "OUTBOUND_CLICKS",
+    "adset_name": "AdSet - Audience Target - Product #18",
+    "adset_status": "PAUSED",
+    "daily_budget_idr": 25000,
+    "targeting": {
+      "min_age": 18,
+      "max_age": 40,
+      "gender": "ALL",
+      "interests": "Perfume, Fragrance, Cosmetics, Beauty, Travel accessories"
+    },
+    "ad_name": "Ad Creative - Product #18",
+    "ad_status": "PAUSED",
+    "creative": {
+      "headline": "🌸 Botol Refill Parfum Travel Size — Rp2.800",
+      "primary_text": "Ribet bawa botol parfum kaca gede pas mau nongkrong atau ngantor? 🎒💨\n\nSolusinya pakai Botol parfum kosong, buat isi ulang ,uku ini!\n✅ Ukuran saku pas di kantong & tas\n✅ Mudah diisi ulang, anti bocor & anti pecah\n✅ Harga super murah cuma Rp2.800!\n\nTetap wangi seharian tanpa bikin tas berat. Dapatkan sekarang di Shopee! ✨ 👇\nhttps://s.shopee.co.id/7fYj4GmzWC",
+      "description": "🔥 Best Seller Travel Essential | 289 terjual",
+      "call_to_action": "SHOP_NOW",
+      "destination_link": "https://s.shopee.co.id/7fYj4GmzWC",
+      "image_url": "https://down-ws-id.img.susercontent.com/id-11134207-8224z-mfurl1p8nf2g12.webp",
+      "local_image": "products/product_18_botol_parfum_10ml_refill/main_image.webp"
+    }
+  },
+  {
+    "product_id": 19,
+    "folder": "product_19_botol_casa_30ml",
+    "campaign_name": "[AFF] Campaign - Product #19 (product_19_botol_casa_30ml)",
+    "campaign_status": "PAUSED",
+    "objective": "OUTBOUND_CLICKS",
+    "adset_name": "AdSet - Audience Target - Product #19",
+    "adset_status": "PAUSED",
+    "daily_budget_idr": 25000,
+    "targeting": {
+      "min_age": 18,
+      "max_age": 50,
+      "gender": "ALL",
+      "interests": "Online shopping, Shopee, E-commerce, Discount shopping"
+    },
+    "ad_name": "Ad Creative - Product #19",
+    "ad_status": "PAUSED",
+    "creative": {
+      "headline": "🛍️ Promo Hemat Shopee: botol casa 30 ml baru murah",
+      "primary_text": "Dapatkan penawaran terbaik untuk botol casa 30 ml baru murah! 🌟\n\n✅ Kualitas terjamin\n✅ Harga terbaik cuma Rp4.500\n✅ Pengiriman cepat & promo komisi Shopee\n\nKlik Beli Sekarang sebelum kehabisan! 👇\nhttps://s.shopee.co.id/9Kgx3KuG3e",
+      "description": "✨ Promo Shopee | 6 terjual",
+      "call_to_action": "SHOP_NOW",
+      "destination_link": "https://s.shopee.co.id/9Kgx3KuG3e",
+      "image_url": "https://down-ws-id.img.susercontent.com/id-11134207-7rbk4-m8ublj3rx8k23a.webp",
+      "local_image": "products/product_19_botol_casa_30ml/main_image.webp"
+    }
+  }
+]

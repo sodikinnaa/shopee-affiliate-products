@@ -4,14 +4,17 @@ import urllib.request
 import urllib.parse
 
 def load_env(env_path='.env'):
-    """Simple parser to load .env file into os.environ"""
+    """Simple parser to load .env file into os.environ without overwriting existing non-empty env vars"""
     if os.path.exists(env_path):
         with open(env_path, 'r', encoding='utf-8') as f:
             for line in f:
                 line = line.strip()
                 if line and not line.startswith('#') and '=' in line:
                     key, val = line.split('=', 1)
-                    os.environ[key.strip()] = val.strip().strip('"').strip("'")
+                    k = key.strip()
+                    v = val.strip().strip('"').strip("'")
+                    if v and not os.environ.get(k):
+                        os.environ[k] = v
 
 class ThreadsAPI:
     def __init__(self, access_token=None, user_id=None, app_id=None, app_secret=None):
