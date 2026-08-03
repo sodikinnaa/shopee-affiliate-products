@@ -339,11 +339,11 @@ Posting materi iklan dan promosi organik secara berkala setiap hari tanpa perlu 
 
 Gunakan materi di bawah ini untuk posting harian di Halaman Facebook, Grup FB UMKM/Olshop, WhatsApp Status, atau Instagram:
 
-### 🖼️ Asset Gambar HD & AI Generated Commercial Visual
-| 🤖 AI Commercial Ad Banner (Ultra High-CTR) | 📦 Foto Produk Asli Shopee |
-|:---:|:---:|
-| ![AI Commercial Zipper Bag](./products/product_01_zipper_bag_custom/ai_generated_ad.jpg) | ![Original Shopee Product](./products/product_01_zipper_bag_custom/main_image.jpg) |
-| *[Download AI Banner HD](https://raw.githubusercontent.com/sodikinnaa/shopee-affiliate-products/main/products/product_01_zipper_bag_custom/ai_generated_ad.jpg)* | *[Download Foto Asli HD](https://raw.githubusercontent.com/sodikinnaa/shopee-affiliate-products/main/products/product_01_zipper_bag_custom/main_image.jpg)* |
+### 🖼️ Asset Gambar Promo AI V2 (Hands-On Showcase + Badge Promo)
+| 🔥 AI Promo V2 (Hands-On + FREE DESAIN Badge) | 🤖 AI Commercial Studio V1 | 📦 Foto Asli Shopee |
+|:---:|:---:|:---:|
+| ![AI Promo V2 Zipper Bag](./products/product_01_zipper_bag_custom/ai_generated_ad_v2.jpg) | ![AI Commercial V1](./products/product_01_zipper_bag_custom/ai_generated_ad.jpg) | ![Original Shopee Product](./products/product_01_zipper_bag_custom/main_image.jpg) |
+| *[Download AI V2 HD](https://raw.githubusercontent.com/sodikinnaa/shopee-affiliate-products/main/products/product_01_zipper_bag_custom/ai_generated_ad_v2.jpg)* | *[Download AI V1 HD](https://raw.githubusercontent.com/sodikinnaa/shopee-affiliate-products/main/products/product_01_zipper_bag_custom/ai_generated_ad.jpg)* | *[Download Foto Asli HD](https://raw.githubusercontent.com/sodikinnaa/shopee-affiliate-products/main/products/product_01_zipper_bag_custom/main_image.jpg)* |
 
 ### ✍️ Teks Postingan Organik Facebook (Ready-to-Copy)
 
