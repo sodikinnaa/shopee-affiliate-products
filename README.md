@@ -279,4 +279,56 @@ Web showcase yang ada di file [`index.html`](./index.html) siap dijadikan Landin
 ```
 
 ---
+
+## ⚡ 7. PANDUAN MANUAL SETUP & AUTOMATION ZAPIER META ADS
+
+### 🛠️ A. Panduan Setup Manual Meta Ads (Langkah Demi Langkah di PC)
+
+Jika Anda ingin melakukan setup iklan secara manual atau mengatasi batasan rate-limit API Meta:
+
+1. **Buka Meta Ads Manager**:
+   Buka dashboard browser di [https://adsmanager.facebook.com](https://adsmanager.facebook.com).
+
+2. **Impor Otomatis 1-Klik via File CSV**:
+   * Klik tombol **Ekspor & Impor** di baris menu atas dashboard.
+   * Pilih **Impor Iklan**.
+   * Upload file [`product_01_import.csv`](./product_01_import.csv).
+   * Seluruh Kampanye, Set Iklan, Anggaran Rp 15.000/hari, dan Target Usia 21-45 (Minat: UMKM & Pakaian) akan terpasang otomatis.
+
+3. **Menghubungkan Gambar Pustaka**:
+   * Klik kampanye **`Product #01 (Zipper Bag Custom)`** -> Pindah ke tab **Iklan (Ad Creative)**.
+   * Di kolom **Media**, klik **Tambahkan Gambar** -> Pilih **Pustaka Akun**.
+   * Pilih file `main_image.jpg` (Zipper Bag Custom) yang sudah tersimpan di pustaka akun Meta.
+
+4. **Aktifkan & Terbitkan**:
+   * Geser sakelar dari **Nonaktif (Grey)** menjadi **Aktif (Hijau)**.
+   * Klik tombol **Terbitkan (Publish)** di sudut kanan bawah.
+
+---
+
+### ⚡ B. Panduan Integrasi Otomatisasi Zapier
+
+Gunakan Zapier untuk mengotomatiskan workflow iklan, pencatatan transaksi affiliate, dan promosi berkala:
+
+#### ⚡ Workflow 1: Zapier Webhook -> Meta Conversions API (CAPI)
+Meminimalkan *drop-off* trafik dan mencatat event klik link affiliate secara server-to-server:
+* **Trigger (Zapier)**: `Catch Hook` (Webhook Zapier).
+* **Action (Zapier)**: `Meta Ads Conversions` / `Custom Webhook` -> POST ke Meta Graph API `/act_<AD_ACCOUNT_ID>/events`.
+* **Payload**: Mempassing `event_name: Lead` / `OutboundClick`, `custom_data: { product_id: 1, affiliate_link: "https://s.shopee.co.id/8fRGG2Smxy" }`.
+
+#### ⚡ Workflow 2: Zapier Auto-Log Order & Komisi ke Google Sheets / Telegram
+Merekam komisi Shopee Affiliate yang masuk ke spreadsheet atau notifikasi HP:
+* **Trigger (Zapier)**: `New Email / Webhook Notification` dari Shopee Affiliate Program.
+* **Action 1 (Zapier)**: `Google Sheets` -> `Create Spreadsheet Row` (Simpan Tanggal, Nama Produk, Komisi IDR).
+* **Action 2 (Zapier)**: `Telegram Bot` -> `Send Channel Message` (Kirim Alert Real-time: "🎉 Sales Baru! Komisi 80% Zipper Bag Masuk!").
+
+#### ⚡ Workflow 3: Zapier Schedule Auto-Post Content ke Meta Pages & Threads
+Posting materi iklan dan promosi organik secara berkala setiap hari tanpa perlu posting manual:
+* **Trigger (Zapier)**: `Schedule by Zapier` (Every Day at 10:00 AM & 19:00 WIB).
+* **Action 1 (Zapier)**: `Code by Zapier (Python)` / `Digest by Zapier` -> Ambil 1 produk dari `products.json`.
+* **Action 2 (Zapier)**: `Facebook Pages` -> `Create Page Photo Post` (Unggah gambar + Teks Promosi + Link Affiliate).
+* **Action 3 (Zapier)**: `Webhooks by Zapier` -> POST ke Threads API Client (`threads_poster.py`).
+
+---
 *Dokumentasi & Creative Showcase siap pakai untuk Meta Ads Scale-Up.*
+
