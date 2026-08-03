@@ -2,8 +2,6 @@
 
 Rekomendasi **Produk Winning Siap Iklan** (Dilengkapi Hook Video TikTok/Reels, Target Audiens, dan Strategi Promosi) hasil analisa otomatis AI.
 
-🔗 **Link Affiliate Utama**: [https://s.shopee.co.id/5ArO3tWgWH](https://s.shopee.co.id/5ArO3tWgWH)
-
 ---
 
 ## 🏆 PRODUK WINNING RECOMMENDED (SIAP IKLAN & PROMOSI)
@@ -12,12 +10,9 @@ Berikut adalah produk pilihan rekomendasi AI dengan angka penjualan terbaik, kom
 
 ### 🏆 SUPER WINNING (BEST SELLER & KOMISI 80%)
 **Zipper Bag Custom Sablon (Free Desain)**
-
-![Visual Iklan Zipper Bag Custom](./images/ad_zipper_bag.jpg)
-
 - 📂 **Folder Direktori**: [`products/product_01_zipper_bag_custom`](./products/product_01_zipper_bag_custom)
 - 💰 **Harga**: `Rp4.300` | 📈 **Penjualan**: `10RB+ terjual` | 🎁 **Komisi**: `80%`
-- 🔗 **Link Pembelian**: [https://s.shopee.co.id/5ArO3tWgWH](https://s.shopee.co.id/5ArO3tWgWH)
+- 🔗 **Link Pembelian**: [https://s.shopee.co.id/8fRGG2Smxy](https://s.shopee.co.id/8fRGG2Smxy)
 - 🎯 **Target Audiens**: Pemilik Olshop, Brand Fashion, Hijab, Shoe Care, Packaging UMKM
 - 💡 **Angle / Sudut Pandang Iklan**: Meningkatkan nilai jual brand olshop dengan packaging zipper bag premium berlogo custom modal hanya 4 ribuan.
 - 🎬 **Skrip Hook Content (TikTok / Reels / Ads)**:
@@ -26,13 +21,10 @@ Berikut adalah produk pilihan rekomendasi AI dengan angka penjualan terbaik, kom
 ---
 
 ### ⚡ IMPULSE BUY WINNING (PENJUALAN TINGGI)
-**Botol Parfum Kaca Spray 5ml (Refill Travel Size)**
-
-![Visual Iklan Botol Parfum Spray 5ml](./images/ad_botol_parfum.jpg)
-
+**Botol Parfum Kosong Kaca 5ml Spray**
 - 📂 **Folder Direktori**: [`products/product_16_botol_parfum_spray_5ml`](./products/product_16_botol_parfum_spray_5ml)
 - 💰 **Harga**: `Rp2.700` | 📈 **Penjualan**: `439 terjual` | 🎁 **Komisi**: `46.5%`
-- 🔗 **Link Pembelian**: [https://s.shopee.co.id/5ArO3tWgWH](https://s.shopee.co.id/5ArO3tWgWH)
+- 🔗 **Link Pembelian**: [https://s.shopee.co.id/6fgBsQ8aw7](https://s.shopee.co.id/6fgBsQ8aw7)
 - 🎯 **Target Audiens**: Mahasiswa, Pekerja Kantoran, Traveler, Pecinta Parfum
 - 💡 **Angle / Sudut Pandang Iklan**: Solusi praktis bawa parfum favorit ukuran saku tanpa ribet bawa botol kaca besar yang berat.
 - 🎬 **Skrip Hook Content (TikTok / Reels / Ads)**:
@@ -42,10 +34,9 @@ Berikut adalah produk pilihan rekomendasi AI dengan angka penjualan terbaik, kom
 
 ### ⚡ IMPULSE BUY WINNING (GROSIR REFILL)
 **Botol Parfum Kosong 10ml Refill Grosir**
-
 - 📂 **Folder Direktori**: [`products/product_18_botol_parfum_10ml_refill`](./products/product_18_botol_parfum_10ml_refill)
 - 💰 **Harga**: `Rp2.800` | 📈 **Penjualan**: `289 terjual` | 🎁 **Komisi**: `46.5%`
-- 🔗 **Link Pembelian**: [https://s.shopee.co.id/5ArO3tWgWH](https://s.shopee.co.id/5ArO3tWgWH)
+- 🔗 **Link Pembelian**: [https://s.shopee.co.id/7fYj4GmzWC](https://s.shopee.co.id/7fYj4GmzWC)
 - 🎯 **Target Audiens**: Penjual Parfum Refill, Penggemar Travel Size, Hobi Koleksi Parfum
 - 💡 **Angle / Sudut Pandang Iklan**: Botol refill hemat grosir, gampang diisi ulang dan cocok untuk sampel atau travel bag.
 - 🎬 **Skrip Hook Content (TikTok / Reels / Ads)**:
@@ -55,10 +46,9 @@ Berikut adalah produk pilihan rekomendasi AI dengan angka penjualan terbaik, kom
 
 ### 🔥 HIGH COMMISSION WINNING (KOMISI 71.5%)
 **50 Pcs Tutup Botol Longneck**
-
 - 📂 **Folder Direktori**: [`products/product_02_tutup_botol_longneck`](./products/product_02_tutup_botol_longneck)
 - 💰 **Harga**: `Rp8.500` | 📈 **Penjualan**: `83 terjual` | 🎁 **Komisi**: `71.5%`
-- 🔗 **Link Pembelian**: [https://s.shopee.co.id/5ArO3tWgWH](https://s.shopee.co.id/5ArO3tWgWH)
+- 🔗 **Link Pembelian**: [https://s.shopee.co.id/19Hw7Epyt](https://s.shopee.co.id/19Hw7Epyt)
 - 🎯 **Target Audiens**: Produsen Minuman Rumahan, Herbal, Kopi Literan, UMKM Botol Plastik
 - 💡 **Angle / Sudut Pandang Iklan**: Supplies pengemas minuman ramah kantong dengan segel rapat dan komisi jualan affiliate super gurih (71.5%).
 - 🎬 **Skrip Hook Content (TikTok / Reels / Ads)**:
@@ -68,12 +58,9 @@ Berikut adalah produk pilihan rekomendasi AI dengan angka penjualan terbaik, kom
 
 ### 🧳 PROBLEM SOLVER TRAVEL WINNING
 **4pcs Ring Silikon Roda Koper Pengganti**
-
-![Visual Iklan Ring Silikon Roda Koper](./images/ad_roda_koper.jpg)
-
 - 📂 **Folder Direktori**: [`products/product_06_ring_karet_roda_koper`](./products/product_06_ring_karet_roda_koper)
 - 💰 **Harga**: `Rp25.000` | 📈 **Penjualan**: `7 terjual` | 🎁 **Komisi**: `57.5%`
-- 🔗 **Link Pembelian**: [https://s.shopee.co.id/5ArO3tWgWH](https://s.shopee.co.id/5ArO3tWgWH)
+- 🔗 **Link Pembelian**: [https://s.shopee.co.id/3qM0VApFm2](https://s.shopee.co.id/3qM0VApFm2)
 - 🎯 **Target Audiens**: Traveler, Frequent Flyer, Pekerja Dinas, Liburan Keluarga
 - 💡 **Angle / Sudut Pandang Iklan**: Melindungi roda koper mahal dari aus/pecah dan meredam suara bising saat ditarik di jalanan kasar.
 - 🎬 **Skrip Hook Content (TikTok / Reels / Ads)**:
