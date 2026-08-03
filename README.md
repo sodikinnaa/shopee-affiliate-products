@@ -1,104 +1,97 @@
-# 🛍️ Shopee Affiliate Winning Ads Toolkit & Strategy
+# 🛍️ Shopee Affiliate Products & Meta Ads Winning Toolkit
 
-Rekomendasi **Produk Winning Siap Iklan** (Dilengkapi Hook Video TikTok/Reels, Target Audiens, dan Strategi Promosi) hasil analisa otomatis AI.
+Repository ini berisi katalog **Produk Winning Shopee Affiliate** ber-komisi tinggi (hingga **80%**) lengkap dengan **Aset Gambar Creative & Guide Iklan Meta Ads (Facebook & Instagram Ads)**, Hook Video TikTok/Reels, serta Strategi Audiens yang siap dipakai.
+
+👉 **[🎯 BUKA PANDUAN LENGKAP IKLAN META ADS (FB & IG ADS)](./META_ADS_GUIDE.md)**  
+👉 **[📦 BUKA KATALOG LENGKAP 19 PRODUK & GAMBAR (FOLDER PRODUCTS)](./products/README.md)**
 
 ---
 
-## 🏆 PRODUK WINNING RECOMMENDED (SIAP IKLAN & PROMOSI)
+## 🎨 PREVIEW CREATIVE IMAGE META ADS (READY TO RUN)
 
-Berikut adalah produk pilihan rekomendasi AI dengan angka penjualan terbaik, komisi terbesar (hingga **80%**), serta potensi konversi iklan yang sangat tinggi:
+Berikut adalah sampel **Image Creative Iklan Meta Ads** yang telah dirancang khusus untuk konversi tinggi (1:1 Feed & 9:16 Story/Reels):
 
-### 🏆 SUPER WINNING (BEST SELLER & KOMISI 80%)
-**Zipper Bag Custom Sablon (Free Desain)**
+| Zipper Bag Custom (Komisi 80%) | Botol Parfum Spray 5ml (Komisi 46.5%) | Ring Silikon Roda Koper (Komisi 57.5%) |
+|:---:|:---:|:---:|
+| ![Zipper Bag Meta Ad](./images/meta_ads/ad_zipper_bag_custom.jpg) | ![Botol Parfum Meta Ad](./images/meta_ads/ad_botol_parfum_5ml.jpg) | ![Ring Koper Meta Ad](./images/meta_ads/ad_ring_karet_koper.jpg) |
+| *Rasio 1:1 Feed* | *Rasio 1:1 Feed* | *Rasio 9:16 Story/Reels* |
+
+---
+
+## 🏆 PRODUK WINNING RECOMMENDED (SIAP IKLAN META ADS & AFFILIATE)
+
+### 🥇 1. Zipper Bag Custom Sablon (Free Desain)
 - 📂 **Folder Direktori**: [`products/product_01_zipper_bag_custom`](./products/product_01_zipper_bag_custom)
-- 💰 **Harga**: `Rp4.300` | 📈 **Penjualan**: `10RB+ terjual` | 🎁 **Komisi**: `80%`
-- 🔗 **Link Pembelian**: [https://s.shopee.co.id/8fRGG2Smxy](https://s.shopee.co.id/8fRGG2Smxy)
-- 🎯 **Target Audiens**: Pemilik Olshop, Brand Fashion, Hijab, Shoe Care, Packaging UMKM
-- 💡 **Angle / Sudut Pandang Iklan**: Meningkatkan nilai jual brand olshop dengan packaging zipper bag premium berlogo custom modal hanya 4 ribuan.
-- 🎬 **Skrip Hook Content (TikTok / Reels / Ads)**:
-  > ✨ 'Mau packaging olshop kamu kelihatan se-premium brand mall cuma modal 4 ribuan? Pakai zipper bag custom ini, gratis desain dan sablon kantong plastic zipper!'
+- 💰 **Harga**: `Rp4.300` | 📈 **Penjualan**: `10RB+ terjual` | 🎁 **Komisi Affiliate**: **`80%`**
+- 🔗 **Link Pembelian Shopee**: [https://s.shopee.co.id/8fRGG2Smxy](https://s.shopee.co.id/8fRGG2Smxy)
+- 🎯 **Target Meta Ads**: Owner Olshop, Brand Fashion, Packaging Hijab, Shoe Care, UMKM
+- ✍️ **Ad Copy Meta Ads**: *"Mau packaging olshop kamu kelihatan se-premium brand mall cuma modal 4 ribuan? Zipper bag custom logo sendiri, gratis desain!"*
 
 ---
 
-### ⚡ IMPULSE BUY WINNING (PENJUALAN TINGGI)
-**Botol Parfum Kosong Kaca 5ml Spray**
+### 🥈 2. Botol Parfum Kosong Kaca 5ml Spray Refill
 - 📂 **Folder Direktori**: [`products/product_16_botol_parfum_spray_5ml`](./products/product_16_botol_parfum_spray_5ml)
-- 💰 **Harga**: `Rp2.700` | 📈 **Penjualan**: `439 terjual` | 🎁 **Komisi**: `46.5%`
-- 🔗 **Link Pembelian**: [https://s.shopee.co.id/6fgBsQ8aw7](https://s.shopee.co.id/6fgBsQ8aw7)
-- 🎯 **Target Audiens**: Mahasiswa, Pekerja Kantoran, Traveler, Pecinta Parfum
-- 💡 **Angle / Sudut Pandang Iklan**: Solusi praktis bawa parfum favorit ukuran saku tanpa ribet bawa botol kaca besar yang berat.
-- 🎬 **Skrip Hook Content (TikTok / Reels / Ads)**:
-  > 🎒 'Stop bawa botol parfum segede gaban yang bikin tas berat! Pindahin ke botol refill spray 5ml harga 2 ribuan ini, praktis & anti bocor.'
+- 💰 **Harga**: `Rp2.700` | 📈 **Penjualan**: `439 terjual` | 🎁 **Komisi Affiliate**: **`46.5%`**
+- 🔗 **Link Pembelian Shopee**: [https://s.shopee.co.id/6fgBsQ8aw7](https://s.shopee.co.id/6fgBsQ8aw7)
+- 🎯 **Target Meta Ads**: Wanita, Mahasiswa, Pekerja Kantoran, Traveler, Pecinta Parfum
+- ✍️ **Ad Copy Meta Ads**: *"Stop bawa botol parfum segede gaban yang bikin tas berat! Pindahin ke botol refill spray 5ml saku harga 2 ribuan, anti bocor."*
 
 ---
 
-### ⚡ IMPULSE BUY WINNING (GROSIR REFILL)
-**Botol Parfum Kosong 10ml Refill Grosir**
-- 📂 **Folder Direktori**: [`products/product_18_botol_parfum_10ml_refill`](./products/product_18_botol_parfum_10ml_refill)
-- 💰 **Harga**: `Rp2.800` | 📈 **Penjualan**: `289 terjual` | 🎁 **Komisi**: `46.5%`
-- 🔗 **Link Pembelian**: [https://s.shopee.co.id/7fYj4GmzWC](https://s.shopee.co.id/7fYj4GmzWC)
-- 🎯 **Target Audiens**: Penjual Parfum Refill, Penggemar Travel Size, Hobi Koleksi Parfum
-- 💡 **Angle / Sudut Pandang Iklan**: Botol refill hemat grosir, gampang diisi ulang dan cocok untuk sampel atau travel bag.
-- 🎬 **Skrip Hook Content (TikTok / Reels / Ads)**:
-  > 💧 'Sering kehabisan parfum saat bepergian? Simpan cadangan parfum favoritmu di botol 10ml ini. Harga grosir mulai 2 ribuan aja!'
-
----
-
-### 🔥 HIGH COMMISSION WINNING (KOMISI 71.5%)
-**50 Pcs Tutup Botol Longneck**
-- 📂 **Folder Direktori**: [`products/product_02_tutup_botol_longneck`](./products/product_02_tutup_botol_longneck)
-- 💰 **Harga**: `Rp8.500` | 📈 **Penjualan**: `83 terjual` | 🎁 **Komisi**: `71.5%`
-- 🔗 **Link Pembelian**: [https://s.shopee.co.id/19Hw7Epyt](https://s.shopee.co.id/19Hw7Epyt)
-- 🎯 **Target Audiens**: Produsen Minuman Rumahan, Herbal, Kopi Literan, UMKM Botol Plastik
-- 💡 **Angle / Sudut Pandang Iklan**: Supplies pengemas minuman ramah kantong dengan segel rapat dan komisi jualan affiliate super gurih (71.5%).
-- 🎬 **Skrip Hook Content (TikTok / Reels / Ads)**:
-  > 🥤 'Usaha minuman literan atau herbalmu butuh tutup botol rapat dan presisi? Dapatkan 50 pcs tutup longneck harga 8 ribuan ini!'
-
----
-
-### 🧳 PROBLEM SOLVER TRAVEL WINNING
-**4pcs Ring Silikon Roda Koper Pengganti**
+### 🥉 3. 4pcs Ring / Strip Karet Silikon Roda Koper
 - 📂 **Folder Direktori**: [`products/product_06_ring_karet_roda_koper`](./products/product_06_ring_karet_roda_koper)
-- 💰 **Harga**: `Rp25.000` | 📈 **Penjualan**: `7 terjual` | 🎁 **Komisi**: `57.5%`
-- 🔗 **Link Pembelian**: [https://s.shopee.co.id/3qM0VApFm2](https://s.shopee.co.id/3qM0VApFm2)
-- 🎯 **Target Audiens**: Traveler, Frequent Flyer, Pekerja Dinas, Liburan Keluarga
-- 💡 **Angle / Sudut Pandang Iklan**: Melindungi roda koper mahal dari aus/pecah dan meredam suara bising saat ditarik di jalanan kasar.
-- 🎬 **Skrip Hook Content (TikTok / Reels / Ads)**:
-  > ✈️ 'Trik biar roda koper enggak berisik dan enggak cepet rusak saat travelling! Pasang karet silikon roda koper ini, langsung senyap & estetik!'
+- 💰 **Harga**: `Rp25.000` | 📈 **Penjualan**: `7 terjual` | 🎁 **Komisi Affiliate**: **`57.5%`**
+- 🔗 **Link Pembelian Shopee**: [https://s.shopee.co.id/3qM0VApFm2](https://s.shopee.co.id/3qM0VApFm2)
+- 🎯 **Target Meta Ads**: Frequent Travelers, Traveler Bandara, Liburan Keluarga, Pekerja Dinas
+- ✍️ **Ad Copy Meta Ads**: *"Trik biar roda koper enggak berisik dan enggak cepet rusak saat travelling! Pasang karet silikon pelindung koper ini, langsung senyap!"*
 
 ---
 
-## 💡 STRATEGI IKLAN & KONTEN AFFILIATE
-
-1. **Untuk Produk B2B (Zipper Bag & Tutup Botol)**:
-   - Gunakan platform **TikTok, Instagram Reels, dan FB Ads**.
-   - Buat konten berformat *Problem & Solution* atau *Packing Order / Unboxing Branding*.
-   - Sertakan kata kunci: *"Packaging Olshop Premium", "Grosir Packaging Murah", "Cara Olshop Terlihat Mahal"*.
-
-2. **Untuk Produk Travel & Problem Solver (Ring Karet Koper & Masker 3D)**:
-   - Gunakan format video *Life Hacks / Travel Hacks*.
-   - Tunjukkan perbandingan *Before vs After* (Suara koper bising tanpa ring vs Senyap dengan ring silikon).
-
-3. **Untuk Produk Impulse Buy (Botol Parfum Refill 5ml & 10ml)**:
-   - Targetkan anak muda, wanita, dan pekerja kantor.
-   - Buat video *What's In My Bag* (WIMB) atau tutorial memindahkan parfum kesayangan ke botol travel size.
+### 🏅 4. 50 Pcs Tutup Botol Longneck
+- 📂 **Folder Direktori**: [`products/product_02_tutup_botol_longneck`](./products/product_02_tutup_botol_longneck)
+- 💰 **Harga**: `Rp8.500` | 📈 **Penjualan**: `83 terjual` | 🎁 **Komisi Affiliate**: **`71.5%`**
+- 🔗 **Link Pembelian Shopee**: [https://s.shopee.co.id/19Hw7Epyt](https://s.shopee.co.id/19Hw7Epyt)
+- 🎯 **Target Meta Ads**: Produsen Minuman Rumahan, Kopi Literan, Jamu/Herbal, Industri Botol Plastik
 
 ---
 
-## 📂 KATALOG & DAFTAR PRODUK LENGKAP
+### 🏅 5. Botol Parfum Kosong 10ml Refill Grosir
+- 📂 **Folder Direktori**: [`products/product_18_botol_parfum_10ml_refill`](./products/product_18_botol_parfum_10ml_refill)
+- 💰 **Harga**: `Rp2.800` | 📈 **Penjualan**: `289 terjual` | 🎁 **Komisi Affiliate**: **`46.5%`**
+- 🔗 **Link Pembelian Shopee**: [https://s.shopee.co.id/7fYj4GmzWC](https://s.shopee.co.id/7fYj4GmzWC)
+- 🎯 **Target Meta Ads**: Penjual Parfum Refill, Penggemar Travel Size, Hobi Koleksi Parfum
 
-Seluruh daftar produk dan folder aset gambar berada di dalam direktori **`products/`**.
+---
 
-👉 **[Buka Catalog & List Produk Lengkap di Folder Products](./products/README.md)**
+## ⚡ META ADS STRATEGY & CAMPAIGN GUIDE
+
+Untuk panduan teknis mendalam mengenai:
+1. **Targeting Audiens Meta Ads** (Demografi, Interests, Behaviors)
+2. **Text Primary Copywriting, Headline, & Description**
+3. **Budget Optimization & Bidding Strategy** (CBO vs ABO, KPI Target)
+4. **Best Practices Gambar Creative (Ukuran, Ratio & Overlay Text)**
+
+👉 **Silakan baca panduan lengkapnya di [META_ADS_GUIDE.md](./META_ADS_GUIDE.md)**
+
+---
+
+## 📂 STRUKTUR FOLDER REPOSITORY
 
 ```
 .
-├── products/
-│   ├── README.md (Daftar & Galeri Produk Lengkap)
-│   ├── product_01_zipper_bag_custom/
-│   ├── product_02_tutup_botol_longneck/
-│   └── ... (19 folder produk)
-├── products.json
-├── download_and_setup.py
-└── README.md
+├── META_ADS_GUIDE.md          # 🎯 Panduan Lengkap Campaign & Copywriting Meta Ads
+├── README.md                  # 🛍️ Dokumentasi Utama Repository & Produk Winning
+├── products.json              # 📄 Data JSON Lengkap 19 Produk Affiliate
+├── images/
+│   └── meta_ads/              # 🖼️ Gambar Creative Iklan Meta Ads (Feed & Story)
+│       ├── ad_zipper_bag_custom.jpg
+│       ├── ad_botol_parfum_5ml.jpg
+│       └── ad_ring_karet_koper.jpg
+└── products/                  # 📦 Katalog & Folder Gambar 19 Produk Shopee
+    ├── README.md
+    ├── product_01_zipper_bag_custom/
+    └── ...
 ```
+
+---
+*Created & Optimized for Shopee Affiliate & Meta Ads Scaling.*
