@@ -334,5 +334,33 @@ Posting materi iklan dan promosi organik secara berkala setiap hari tanpa perlu 
 * **Action 3 (Zapier)**: `Webhooks by Zapier` -> POST ke Threads API Client (`threads_poster.py`).
 
 ---
+
+## 📲 8. MATERI POSTINGAN ORGANIK FACEBOOK & SOCIAL MEDIA
+
+Gunakan materi di bawah ini untuk posting harian di Halaman Facebook, Grup FB UMKM/Olshop, WhatsApp Status, atau Instagram:
+
+### 🖼️ Direct Link Asset Gambar HD
+* **Gambar HD Product #01 Zipper Bag Custom**: [Download main_image.jpg](https://raw.githubusercontent.com/sodikinnaa/shopee-affiliate-products/main/products/product_01_zipper_bag_custom/main_image.jpg)
+
+### ✍️ Teks Postingan Organik Facebook (Ready-to-Copy)
+
+> 🎁 **SPESIAL UNTUK PEMILIK OLSHOP / UMKM FASHION!** 🎁
+>
+> Masih kirim paket pakaian / produk pelanggan pakai plastik kresek polos biasa? 😱 
+> Biar olshop kamu kelihatan se-premium brand mall dan kebanjiran Ulasan Bintang 5 ⭐⭐⭐⭐⭐, yuk upgrade kemasan olshop kamu pakai **Zipper Bag Custom Sablon Logo Brand Sendiri**!
+>
+> **Keuntungan Cetak Zipper Bag Custom di Shopee:**
+> ✅ **FREE Desain Logo** *(Bisa dibantu buatkan logo baru!)*  
+> ✅ **FREE Sablon 1 Warna** *(Tercetak rapi & presisi)*  
+> ✅ **Bahan Frosted Premium** *(Tebal, estetik & anti-sobek)*  
+> ✅ **Harga Grosir Mulai Rp4.300/pcs!** *(Minimal order cuma 100 pcs)*  
+>
+> Bikin pembeli makin percaya, senang unboxing, dan repeat order terus! 🛍️✨
+>
+> 👇 **KLIK LINK SHOPEE DI BAWAH UNTUK CEK HARGA & AMBIL PROMO GRATIS DESAIN HARI INI:**  
+> [https://s.shopee.co.id/8fRGG2Smxy](https://s.shopee.co.id/8fRGG2Smxy)
+
+---
 *Dokumentasi & Creative Showcase siap pakai untuk Meta Ads Scale-Up.*
+
 
