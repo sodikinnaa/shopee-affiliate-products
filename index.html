@@ -1,0 +1,1246 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Shopee Affiliate Winning Products & Meta Ads Toolkit</title>
+  <meta name="description" content="Katalog Produk Winning Shopee Affiliate Ber-komisi Tinggi (Hingga 80%) Lengkap dengan Material Iklan Meta Ads & Hook Content TikTok/Reels.">
+  
+  <!-- Google Fonts: Inter & Outfit -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Outfit:wght@500;600;700;800&display=swap" rel="stylesheet">
+  
+  <!-- FontAwesome Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  
+  <style>
+    :root {
+      --bg-primary: #0f172a;
+      --bg-secondary: #1e293b;
+      --bg-card: rgba(30, 41, 59, 0.7);
+      --bg-card-hover: rgba(51, 65, 85, 0.8);
+      --text-main: #f8fafc;
+      --text-muted: #94a3b8;
+      --accent-orange: #ff5722;
+      --accent-orange-hover: #f4511e;
+      --accent-gold: #fbbf24;
+      --accent-cyan: #06b6d4;
+      --accent-green: #10b981;
+      --accent-purple: #8b5cf6;
+      --border-color: rgba(255, 255, 255, 0.1);
+      --glass-border: 1px solid rgba(255, 255, 255, 0.12);
+      --shadow-sm: 0 4px 6px -1px rgba(0, 0, 0, 0.3);
+      --shadow-lg: 0 20px 25px -5px rgba(0, 0, 0, 0.5);
+      --radius-lg: 16px;
+      --radius-md: 12px;
+      --radius-sm: 8px;
+    }
+
+    [data-theme="light"] {
+      --bg-primary: #f8fafc;
+      --bg-secondary: #ffffff;
+      --bg-card: rgba(255, 255, 255, 0.85);
+      --bg-card-hover: #ffffff;
+      --text-main: #0f172a;
+      --text-muted: #64748b;
+      --border-color: rgba(0, 0, 0, 0.08);
+      --glass-border: 1px solid rgba(0, 0, 0, 0.08);
+      --shadow-sm: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+      --shadow-lg: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      font-family: 'Inter', sans-serif;
+      transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+    }
+
+    body {
+      background-color: var(--bg-primary);
+      color: var(--text-main);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      overflow-x: hidden;
+    }
+
+    /* Ambient Glow Background */
+    .glow-bg {
+      position: fixed;
+      top: -200px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 800px;
+      height: 600px;
+      background: radial-gradient(circle, rgba(255, 87, 34, 0.15) 0%, rgba(139, 92, 246, 0.1) 40%, rgba(15, 23, 42, 0) 70%);
+      z-index: 0;
+      pointer-events: none;
+    }
+
+    /* Header & Navigation */
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+      background-color: rgba(15, 23, 42, 0.75);
+      border-bottom: var(--glass-border);
+    }
+
+    [data-theme="light"] header {
+      background-color: rgba(248, 250, 252, 0.85);
+    }
+
+    .nav-container {
+      max-width: 1280px;
+      margin: 0 auto;
+      padding: 1rem 1.5rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .logo-box {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: var(--text-main);
+    }
+
+    .logo-icon {
+      width: 42px;
+      height: 42px;
+      background: linear-gradient(135deg, var(--accent-orange), #ff9800);
+      border-radius: 12px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: white;
+      font-size: 1.25rem;
+      box-shadow: 0 4px 12px rgba(255, 87, 34, 0.4);
+    }
+
+    .logo-text {
+      font-family: 'Outfit', sans-serif;
+      font-weight: 800;
+      font-size: 1.35rem;
+      letter-spacing: -0.5px;
+    }
+
+    .logo-text span {
+      color: var(--accent-orange);
+    }
+
+    .header-actions {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+    }
+
+    .theme-toggle-btn {
+      background: var(--bg-secondary);
+      border: var(--glass-border);
+      color: var(--text-main);
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.1rem;
+    }
+
+    .theme-toggle-btn:hover {
+      background: var(--bg-card-hover);
+      transform: scale(1.05);
+    }
+
+    .guide-btn {
+      background: linear-gradient(135deg, var(--accent-purple), #6366f1);
+      color: white;
+      padding: 0.6rem 1.2rem;
+      border-radius: 30px;
+      font-weight: 600;
+      font-size: 0.9rem;
+      text-decoration: none;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      box-shadow: 0 4px 14px rgba(139, 92, 246, 0.3);
+    }
+
+    .guide-btn:hover {
+      opacity: 0.92;
+      transform: translateY(-2px);
+    }
+
+    /* Main Container */
+    main {
+      max-width: 1280px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem 4rem;
+      flex: 1;
+      width: 100%;
+      position: relative;
+      z-index: 1;
+    }
+
+    /* Hero Section */
+    .hero-section {
+      text-align: center;
+      margin-bottom: 3rem;
+    }
+
+    .badge-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      background: rgba(255, 87, 34, 0.12);
+      border: 1px solid rgba(255, 87, 34, 0.3);
+      color: var(--accent-orange);
+      padding: 0.4rem 1rem;
+      border-radius: 30px;
+      font-size: 0.85rem;
+      font-weight: 600;
+      margin-bottom: 1.25rem;
+    }
+
+    .hero-title {
+      font-family: 'Outfit', sans-serif;
+      font-size: 2.75rem;
+      font-weight: 800;
+      line-height: 1.2;
+      margin-bottom: 1rem;
+      background: linear-gradient(135deg, var(--text-main) 30%, var(--accent-orange) 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .hero-subtitle {
+      color: var(--text-muted);
+      font-size: 1.1rem;
+      max-width: 720px;
+      margin: 0 auto 2rem;
+      line-height: 1.6;
+    }
+
+    /* Filter & Search Bar */
+    .controls-wrapper {
+      background: var(--bg-card);
+      border: var(--glass-border);
+      backdrop-filter: blur(12px);
+      padding: 1.25rem;
+      border-radius: var(--radius-lg);
+      margin-bottom: 2.5rem;
+      box-shadow: var(--shadow-sm);
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+    }
+
+    .search-row {
+      display: flex;
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
+
+    .search-box {
+      flex: 1;
+      min-width: 280px;
+      position: relative;
+    }
+
+    .search-box i {
+      position: absolute;
+      left: 1.2rem;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--text-muted);
+    }
+
+    .search-input {
+      width: 100%;
+      padding: 0.85rem 1rem 0.85rem 3rem;
+      background: var(--bg-secondary);
+      border: var(--glass-border);
+      border-radius: var(--radius-md);
+      color: var(--text-main);
+      font-size: 0.95rem;
+      outline: none;
+    }
+
+    .search-input:focus {
+      border-color: var(--accent-orange);
+    }
+
+    .sort-select {
+      padding: 0.85rem 1.25rem;
+      background: var(--bg-secondary);
+      border: var(--glass-border);
+      border-radius: var(--radius-md);
+      color: var(--text-main);
+      font-size: 0.95rem;
+      outline: none;
+      cursor: pointer;
+    }
+
+    .category-pills {
+      display: flex;
+      gap: 0.6rem;
+      overflow-x: auto;
+      padding-bottom: 0.25rem;
+      scrollbar-width: none;
+    }
+
+    .category-pills::-webkit-scrollbar {
+      display: none;
+    }
+
+    .cat-btn {
+      background: var(--bg-secondary);
+      border: var(--glass-border);
+      color: var(--text-muted);
+      padding: 0.5rem 1.1rem;
+      border-radius: 20px;
+      font-size: 0.85rem;
+      font-weight: 500;
+      cursor: pointer;
+      white-space: nowrap;
+    }
+
+    .cat-btn.active, .cat-btn:hover {
+      background: var(--accent-orange);
+      color: white;
+      border-color: var(--accent-orange);
+    }
+
+    /* Section Header */
+    .section-title-box {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 1.5rem;
+    }
+
+    .section-title {
+      font-family: 'Outfit', sans-serif;
+      font-size: 1.5rem;
+      font-weight: 700;
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+    }
+
+    .results-count {
+      color: var(--text-muted);
+      font-size: 0.9rem;
+    }
+
+    /* Products Grid */
+    .product-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 1.5rem;
+    }
+
+    /* Product Card */
+    .product-card {
+      background: var(--bg-card);
+      border: var(--glass-border);
+      border-radius: var(--radius-lg);
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      position: relative;
+      backdrop-filter: blur(10px);
+      box-shadow: var(--shadow-sm);
+    }
+
+    .product-card:hover {
+      transform: translateY(-4px);
+      box-shadow: var(--shadow-lg);
+      border-color: rgba(255, 87, 34, 0.4);
+    }
+
+    .card-thumb-wrapper {
+      position: relative;
+      width: 100%;
+      padding-top: 100%; /* 1:1 Aspect Ratio */
+      background: var(--bg-secondary);
+      overflow: hidden;
+    }
+
+    .card-thumb-img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    .commission-badge {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      background: linear-gradient(135deg, #ef4444, #dc2626);
+      color: white;
+      font-weight: 800;
+      font-size: 0.85rem;
+      padding: 0.35rem 0.75rem;
+      border-radius: 20px;
+      box-shadow: 0 4px 10px rgba(239, 68, 68, 0.4);
+      display: flex;
+      align-items: center;
+      gap: 0.3rem;
+    }
+
+    .winning-tag {
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      background: linear-gradient(135deg, #f59e0b, #d97706);
+      color: white;
+      font-weight: 700;
+      font-size: 0.75rem;
+      padding: 0.3rem 0.65rem;
+      border-radius: 20px;
+      box-shadow: 0 4px 10px rgba(245, 158, 11, 0.4);
+    }
+
+    .card-body {
+      padding: 1.25rem;
+      display: flex;
+      flex-direction: column;
+      flex: 1;
+    }
+
+    .card-product-title {
+      font-size: 0.95rem;
+      font-weight: 600;
+      line-height: 1.4;
+      margin-bottom: 0.75rem;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      min-height: 2.6rem;
+      color: var(--text-main);
+    }
+
+    .card-meta-info {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 1rem;
+      padding-bottom: 0.75rem;
+      border-bottom: 1px dashed var(--border-color);
+    }
+
+    .card-price {
+      font-family: 'Outfit', sans-serif;
+      font-size: 1.25rem;
+      font-weight: 800;
+      color: var(--accent-orange);
+    }
+
+    .card-sold {
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      background: var(--bg-secondary);
+      padding: 0.25rem 0.6rem;
+      border-radius: 6px;
+    }
+
+    .card-actions {
+      display: flex;
+      gap: 0.6rem;
+      margin-top: auto;
+    }
+
+    .btn-buy {
+      flex: 1;
+      background: linear-gradient(135deg, var(--accent-orange), #ee4d2d);
+      color: white;
+      text-decoration: none;
+      text-align: center;
+      padding: 0.75rem 1rem;
+      border-radius: var(--radius-md);
+      font-weight: 700;
+      font-size: 0.9rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      box-shadow: 0 4px 12px rgba(255, 87, 34, 0.3);
+    }
+
+    .btn-buy:hover {
+      opacity: 0.95;
+    }
+
+    .btn-icon-action {
+      background: var(--bg-secondary);
+      border: var(--glass-border);
+      color: var(--text-main);
+      width: 42px;
+      height: 42px;
+      border-radius: var(--radius-md);
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1rem;
+    }
+
+    .btn-icon-action:hover {
+      background: var(--accent-purple);
+      color: white;
+    }
+
+    .btn-ads-creative {
+      width: 100%;
+      margin-top: 0.6rem;
+      background: rgba(139, 92, 246, 0.12);
+      border: 1px solid rgba(139, 92, 246, 0.3);
+      color: var(--accent-purple);
+      padding: 0.6rem;
+      border-radius: var(--radius-md);
+      font-size: 0.85rem;
+      font-weight: 600;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+    }
+
+    .btn-ads-creative:hover {
+      background: var(--accent-purple);
+      color: white;
+    }
+
+    /* Modal Styling */
+    .modal-overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: 100vh;
+      background: rgba(0, 0, 0, 0.75);
+      backdrop-filter: blur(8px);
+      z-index: 1000;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 1.5rem;
+    }
+
+    .modal-overlay.active {
+      display: flex;
+    }
+
+    .modal-container {
+      background: var(--bg-secondary);
+      border: var(--glass-border);
+      border-radius: var(--radius-lg);
+      max-width: 800px;
+      width: 100%;
+      max-height: 90vh;
+      overflow-y: auto;
+      box-shadow: var(--shadow-lg);
+      position: relative;
+    }
+
+    .modal-header {
+      padding: 1.5rem;
+      border-bottom: 1px solid var(--border-color);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .modal-title {
+      font-family: 'Outfit', sans-serif;
+      font-size: 1.3rem;
+      font-weight: 700;
+    }
+
+    .close-modal-btn {
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      font-size: 1.5rem;
+      cursor: pointer;
+    }
+
+    .close-modal-btn:hover {
+      color: var(--text-main);
+    }
+
+    .modal-content {
+      padding: 1.5rem;
+      display: flex;
+      flex-direction: column;
+      gap: 1.5rem;
+    }
+
+    .modal-img-preview {
+      width: 100%;
+      max-height: 400px;
+      object-fit: contain;
+      border-radius: var(--radius-md);
+      background: var(--bg-primary);
+    }
+
+    .copy-box {
+      background: var(--bg-primary);
+      border: 1px solid var(--border-color);
+      padding: 1rem;
+      border-radius: var(--radius-md);
+      font-family: monospace;
+      font-size: 0.9rem;
+      white-space: pre-wrap;
+      position: relative;
+      color: var(--text-main);
+    }
+
+    .btn-copy-code {
+      position: absolute;
+      top: 0.5rem;
+      right: 0.5rem;
+      background: var(--accent-orange);
+      color: white;
+      border: none;
+      padding: 0.3rem 0.6rem;
+      border-radius: 4px;
+      font-size: 0.75rem;
+      cursor: pointer;
+    }
+
+    /* Toast Notification */
+    .toast {
+      position: fixed;
+      bottom: 2rem;
+      right: 2rem;
+      background: var(--accent-green);
+      color: white;
+      padding: 0.8rem 1.5rem;
+      border-radius: 30px;
+      font-weight: 600;
+      font-size: 0.9rem;
+      box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      transform: translateY(100px);
+      opacity: 0;
+      transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+      z-index: 10000;
+    }
+
+    .toast.show {
+      transform: translateY(0);
+      opacity: 1;
+    }
+
+    /* Footer */
+    footer {
+      border-top: var(--glass-border);
+      padding: 2rem 1.5rem;
+      text-align: center;
+      color: var(--text-muted);
+      font-size: 0.9rem;
+      margin-top: auto;
+    }
+
+    @media (max-width: 768px) {
+      .hero-title {
+        font-size: 2rem;
+      }
+      .nav-container {
+        padding: 0.8rem 1rem;
+      }
+      .guide-btn span {
+        display: none;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="glow-bg"></div>
+
+  <!-- Header -->
+  <header>
+    <div class="nav-container">
+      <a href="#" class="logo-box">
+        <div class="logo-icon"><i class="fa-solid fa-bag-shopping"></i></div>
+        <div class="logo-text">Shopee<span>Affiliate</span></div>
+      </a>
+      <div class="header-actions">
+        <a href="./META_ADS_GUIDE.md" class="guide-btn" target="_blank">
+          <i class="fa-solid fa-bullhorn"></i>
+          <span>Panduan Meta Ads</span>
+        </a>
+        <button class="theme-toggle-btn" id="themeToggleBtn" title="Ganti Mode">
+          <i class="fa-solid fa-moon"></i>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main>
+    <!-- Hero Section -->
+    <section class="hero-section">
+      <div class="badge-pill">
+        <i class="fa-solid fa-fire"></i> Komisi Hingga 80% • 19 Produk Winning
+      </div>
+      <h1 class="hero-title">Katalog Shopee Affiliate & Meta Ads Winning Toolkit</h1>
+      <p class="hero-subtitle">
+        Daftar produk terlaris dengan komisi tertinggi, dilengkapi Aset Iklan Meta Ads (Feed & Story), Target Audiens, dan Hook Content TikTok/Reels siap pakai.
+      </p>
+    </section>
+
+    <!-- Controls & Search -->
+    <section class="controls-wrapper">
+      <div class="search-row">
+        <div class="search-box">
+          <i class="fa-solid fa-magnifying-glass"></i>
+          <input type="text" id="searchInput" class="search-input" placeholder="Cari nama produk, kategori, atau komisi...">
+        </div>
+        <select id="sortSelect" class="sort-select">
+          <option value="commission-desc">🔥 Komisi Tertinggi</option>
+          <option value="sold-desc">📈 Penjualan Terbanyak</option>
+          <option value="price-asc">💰 Harga Terendah</option>
+          <option value="price-desc">💎 Harga Tertinggi</option>
+        </select>
+      </div>
+
+      <div class="category-pills" id="categoryPills">
+        <button class="cat-btn active" data-cat="all">Semua Kategori</button>
+        <button class="cat-btn" data-cat="winning">🏆 Super Winning Ads</button>
+        <button class="cat-btn" data-cat="packaging">📦 Custom Packaging</button>
+        <button class="cat-btn" data-cat="travel">✈️ Travel & Problem Solver</button>
+        <button class="cat-btn" data-cat="pouch">🛍️ Tas & Pouch</button>
+        <button class="cat-btn" data-cat="parfum">🧴 Botol Parfum Refill</button>
+      </div>
+    </section>
+
+    <!-- Section Header -->
+    <div class="section-title-box">
+      <h2 class="section-title"><i class="fa-solid fa-box-open" style="color: var(--accent-orange)"></i> Daftar Produk Affiliate</h2>
+      <span class="results-count" id="resultsCount">Menampilkan 19 Produk</span>
+    </div>
+
+    <!-- Product Grid -->
+    <div class="product-grid" id="productGrid">
+      <!-- Product Cards dynamically rendered via JavaScript -->
+    </div>
+  </main>
+
+  <!-- Modal Meta Ads -->
+  <div class="modal-overlay" id="adsModal">
+    <div class="modal-container">
+      <div class="modal-header">
+        <h3 class="modal-title" id="modalTitle">Materi Iklan Meta Ads</h3>
+        <button class="close-modal-btn" onclick="closeAdsModal()">&times;</button>
+      </div>
+      <div class="modal-content" id="modalBody">
+        <!-- Modal content filled dynamically -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Toast Notification -->
+  <div class="toast" id="toast">
+    <i class="fa-solid fa-circle-check"></i> Link Affiliate berhasil disalin!
+  </div>
+
+  <!-- Footer -->
+  <footer>
+    <p>© 2026 Shopee Affiliate & Meta Ads Winning Toolkit • Built for Affiliate Marketers & Advertisers</p>
+  </footer>
+
+  <script>
+    // Embedded Product Data
+    const products = [
+      {
+        id: 1,
+        title: "Zipper Bag Custom Sablon (Free Desain & Sablon 1 Warna)",
+        folder: "product_01_zipper_bag_custom",
+        price: 4300,
+        price_str: "Rp4.300",
+        sold_num: 10000,
+        sold_str: "10RB+ terjual",
+        commission_num: 80,
+        commission_str: "80%",
+        affiliate_link: "https://s.shopee.co.id/8fRGG2Smxy",
+        image: "products/product_01_zipper_bag_custom/main_image.webp",
+        category: "packaging",
+        is_winning: true,
+        ad_creative: "images/meta_ads/ad_zipper_bag_custom.jpg",
+        ad_copy: `[Primary Text]\nPengen brand fashion / olshop kamu kelihatan se-premium brand mall? 🛍️✨\n\nUpgrade packaging olshop kamu pakai Zipper Bag Custom berlogo brand sendiri!\n✅ FREE Desain Logo & Sablon 1 Warna\n✅ Plastik Zipper Premium Frosted & Durable\n✅ Cetak Minimal Cuma 100 Pcs (Harga Rp4.300/pcs)\n\nBikin pembeli makin percaya dan repeat order terus! Klik Beli Sekarang di Shopee! 👇\n\n[Headline]\n📦 Zipper Bag Custom Olshop (Gratis Desain & Sablon) — Rp4.300\n\n[Description]\n🌟 10RB+ Terjual di Shopee | Komisi Spesial 80%`,
+        target_audience: "Owner Olshop, Brand Fashion, Packaging Hijab, Shoe Care, UMKM"
+      },
+      {
+        id: 2,
+        title: "50 PCS Tutup Botol Longneck (Segel Tamper-Evident)",
+        folder: "product_02_tutup_botol_longneck",
+        price: 8500,
+        price_str: "Rp8.500",
+        sold_num: 83,
+        sold_str: "83 terjual",
+        commission_num: 71.5,
+        commission_str: "71.5%",
+        affiliate_link: "https://s.shopee.co.id/19Hw7Epyt",
+        image: "products/product_02_tutup_botol_longneck/main_image.webp",
+        category: "packaging",
+        is_winning: true,
+        ad_creative: "images/meta_ads/ad_tutup_botol_longneck.jpg",
+        ad_copy: `[Primary Text]\nUsaha minuman rumahan, sirup, atau herbal butuh kemasan botol yang rapat & aman dari bocor? 🥤🔒\n\nPakai Tutup Botol Longneck Paket 50 Pcs ini!\n✅ Dilengkapi segel tamper-evident\n✅ Presisi & kedap udara\n✅ Harga ekonomis cuma 8 ribuan dapet 50 Pcs!\n\n[Headline]\n🥤 Paket 50 Pcs Tutup Botol Longneck Segel Presisi — Rp8.500\n\n[Description]\n⚡ Komisi 71.5% | Pilihan Utama UMKM Minuman`,
+        target_audience: "Produsen Minuman Rumahan, Kopi Literan, Jamu/Herbal, Industri Botol Plastik"
+      },
+      {
+        id: 3,
+        title: "Tutup Botol Diameter 3cm x 9mm Tanpa Segel Kerajinan",
+        folder: "product_03_tutup_botol_3cm",
+        price: 17999,
+        price_str: "Rp17.999",
+        sold_num: 6,
+        sold_str: "6 terjual",
+        commission_num: 71.5,
+        commission_str: "71.5%",
+        affiliate_link: "https://s.shopee.co.id/9pdDeBox53",
+        image: "products/product_03_tutup_botol_3cm/main_image.webp",
+        category: "packaging",
+        is_winning: false
+      },
+      {
+        id: 4,
+        title: "Bantal Leher U Empuk Lembut Neck Pillow Travel",
+        folder: "product_04_bantal_leher_u",
+        price: 48599,
+        price_str: "Rp48.599",
+        sold_num: 2,
+        sold_str: "2 terjual",
+        commission_num: 61.5,
+        commission_str: "61.5%",
+        affiliate_link: "https://s.shopee.co.id/8pkgSM6AFE",
+        image: "products/product_04_bantal_leher_u/main_image.webp",
+        category: "travel",
+        is_winning: false
+      },
+      {
+        id: 5,
+        title: "Bantal Travel Sandaran Leher Anti Pegal Neck Pillow",
+        folder: "product_05_bantal_travel_sandaran",
+        price: 48599,
+        price_str: "Rp48.599",
+        sold_num: 1,
+        sold_str: "1 terjual",
+        commission_num: 60,
+        commission_str: "60%",
+        affiliate_link: "https://s.shopee.co.id/6pzc4gR2ui",
+        image: "products/product_05_bantal_travel_sandaran/main_image.webp",
+        category: "travel",
+        is_winning: false
+      },
+      {
+        id: 6,
+        title: "4pcs Ring / Strip Karet Silikon Roda Koper (Anti Bising)",
+        folder: "product_06_ring_karet_roda_koper",
+        price: 25000,
+        price_str: "Rp25.000",
+        sold_num: 7,
+        sold_str: "7 terjual",
+        commission_num: 57.5,
+        commission_str: "57.5%",
+        affiliate_link: "https://s.shopee.co.id/3qM0VApFm2",
+        image: "products/product_06_ring_karet_roda_koper/main_image.webp",
+        category: "travel",
+        is_winning: true,
+        ad_creative: "images/meta_ads/ad_ring_karet_koper.jpg",
+        ad_copy: `[Primary Text]\nKesel roda koper bising dan cepet aus saat ditarik di bandara / jalanan kasar? ✈️🧳\n\nPasang Ring Silikon Pelindung Roda Koper ini!\n🔇 Roda koper senyap seketika, bebas suara bising\n🛡️ Melindungi roda dari goresan, pecah & aus\n🎨 Banyak pilihan warna estetik & elastis mudah dipasang\n\nCuma Rp25.000 dapet 4 pcs! Klik link Shopee di bawah! 👇\n\n[Headline]\n✈️ Pelindung Silikon Roda Koper (Solusi Koper Anti Bising)\n\n[Description]\n⭐ Kompatibel Semua Merk Koper | Travel Hack Wajib`,
+        target_audience: "Frequent Travelers, Traveler Bandara, Liburan Keluarga, Pekerja Dinas"
+      },
+      {
+        id: 7,
+        title: "Masker Tidur Sutra Contour Design Elastic Strap",
+        folder: "product_07_masker_tidur_sutra",
+        price: 26900,
+        price_str: "Rp26.900",
+        sold_num: 4,
+        sold_str: "4 terjual",
+        commission_num: 57.5,
+        commission_str: "57.5%",
+        affiliate_link: "https://s.shopee.co.id/1Vy5itBkQu",
+        image: "products/product_07_masker_tidur_sutra/main_image.webp",
+        category: "travel",
+        is_winning: false
+      },
+      {
+        id: 8,
+        title: "Pelindung Roda Ganda Koper & Kursi Silikon Cover",
+        folder: "product_08_pelindung_roda_ganda",
+        price: 35900,
+        price_str: "Rp35.900",
+        sold_num: 1,
+        sold_str: "1 terjual",
+        commission_num: 57.5,
+        commission_str: "57.5%",
+        affiliate_link: "https://s.shopee.co.id/6VMlg55IGw",
+        image: "products/product_08_pelindung_roda_ganda/main_image.webp",
+        category: "travel",
+        is_winning: false
+      },
+      {
+        id: 9,
+        title: "Masker Mata 3D Gelap Total Memory Foam Anti Bocor Cahaya",
+        folder: "product_09_masker_mata_3d",
+        price: 65000,
+        price_str: "Rp65.000",
+        sold_num: 3,
+        sold_str: "3 terjual",
+        commission_num: 57.5,
+        commission_str: "57.5%",
+        affiliate_link: "https://s.shopee.co.id/19Hw8jEQ9",
+        image: "products/product_09_masker_mata_3d/main_image.webp",
+        category: "travel",
+        is_winning: false
+      },
+      {
+        id: 10,
+        title: "TSA Luggage Key T002 T007 Master Key Kunci Koper",
+        folder: "product_10_tsa_luggage_key",
+        price: 60000,
+        price_str: "Rp60.000",
+        sold_num: 0,
+        sold_str: "Baru",
+        commission_num: 57.5,
+        commission_str: "57.5%",
+        affiliate_link: "https://s.shopee.co.id/8AUzf9Ui2L",
+        image: "products/product_10_tsa_luggage_key/main_image.webp",
+        category: "travel",
+        is_winning: false
+      },
+      {
+        id: 11,
+        title: "Tas Serut Karet Stringbag Multifungsi Pria Wanita",
+        folder: "product_11_tas_serut_stringbag",
+        price: 35556,
+        price_str: "Rp35.556",
+        sold_num: 0,
+        sold_str: "Baru",
+        commission_num: 55,
+        commission_str: "55%",
+        affiliate_link: "https://s.shopee.co.id/5VUEUFsg9g",
+        image: "products/product_11_tas_serut_stringbag/main_image.webp",
+        category: "pouch",
+        is_winning: false
+      },
+      {
+        id: 12,
+        title: "Tiket PO LILMOBAG 4 in 1 Duffle Bag",
+        folder: "product_12_tiket_po_lilmobag",
+        price: 50000,
+        price_str: "Rp50.000",
+        sold_num: 0,
+        sold_str: "Baru",
+        commission_num: 50,
+        commission_str: "50%",
+        affiliate_link: "https://s.shopee.co.id/3g2aItBpI6",
+        image: "products/product_12_tiket_po_lilmobag/main_image.webp",
+        category: "pouch",
+        is_winning: false
+      },
+      {
+        id: 13,
+        title: "Tas Pouch Anak Multifungsi Zipper Waterproof",
+        folder: "product_13_tas_pouch_anak",
+        price: 116910,
+        price_str: "Rp116.910",
+        sold_num: 0,
+        sold_str: "Baru",
+        commission_num: 50,
+        commission_str: "50%",
+        affiliate_link: "https://s.shopee.co.id/qiOvgibx3",
+        image: "products/product_13_tas_pouch_anak/main_image.webp",
+        category: "pouch",
+        is_winning: false
+      },
+      {
+        id: 14,
+        title: "Tas Bahu WEY Shoulder Bag Selempang Kapasitas Besar",
+        folder: "product_14_tas_bahu_wey",
+        price: 84000,
+        price_str: "Rp84.000",
+        sold_num: 0,
+        sold_str: "Baru",
+        commission_num: 49,
+        commission_str: "49%",
+        affiliate_link: "https://s.shopee.co.id/2LXCiRyLir",
+        image: "products/product_14_tas_bahu_wey/main_image.webp",
+        category: "pouch",
+        is_winning: false
+      },
+      {
+        id: 15,
+        title: "Botol Kaca Parfum Kosong 10ml Grosir Perlusin 12 Pcs",
+        folder: "product_15_botol_kaca_parfum_10ml",
+        price: 32500,
+        price_str: "Rp32.500",
+        sold_num: 97,
+        sold_str: "97 terjual",
+        commission_num: 46.5,
+        commission_str: "46.5%",
+        affiliate_link: "https://s.shopee.co.id/1gHVvEE9gb",
+        image: "products/product_15_botol_kaca_parfum_10ml/main_image.webp",
+        category: "parfum",
+        is_winning: false
+      },
+      {
+        id: 16,
+        title: "Botol Parfum Kosong Kaca 5ml Spray Refill Pocket Size",
+        folder: "product_16_botol_parfum_spray_5ml",
+        price: 2700,
+        price_str: "Rp2.700",
+        sold_num: 439,
+        sold_str: "439 terjual",
+        commission_num: 46.5,
+        commission_str: "46.5%",
+        affiliate_link: "https://s.shopee.co.id/6fgBsQ8aw7",
+        image: "products/product_16_botol_parfum_spray_5ml/main_image.webp",
+        category: "parfum",
+        is_winning: true,
+        ad_creative: "images/meta_ads/ad_botol_parfum_5ml.jpg",
+        ad_copy: `[Primary Text]\nRibet bawa botol parfum kaca gede pas mau nongkrong atau ngantor? 🎒💨\n\nSolusinya pakai Botol Parfum Refill Spray 5ml ini!\n✅ Ukuran saku pas di kantong & tas\n✅ Mudah diisi ulang, anti bocor & anti pecah\n✅ Harga super murah cuma 2 Ribuan!\n\n[Headline]\n🌸 Botol Refill Parfum Spray 5ml Travel Size — Rp2.700\n\n[Description]\n🔥 Best Seller Travel Essential | Diskon Khusus Hari Ini`,
+        target_audience: "Mahasiswa, Pekerja Kantoran, Traveler, Pecinta Parfum"
+      },
+      {
+        id: 17,
+        title: "Botol Kosong Parfum Hermes Ukuran 50ml Satuan",
+        folder: "product_17_botol_parfum_hermes_50ml",
+        price: 8000,
+        price_str: "Rp8.000",
+        sold_num: 2,
+        sold_str: "2 terjual",
+        commission_num: 46.5,
+        commission_str: "46.5%",
+        affiliate_link: "https://s.shopee.co.id/AAG42rHGkM",
+        image: "products/product_17_botol_parfum_hermes_50ml/main_image.webp",
+        category: "parfum",
+        is_winning: false
+      },
+      {
+        id: 18,
+        title: "Botol Parfum Kosong 10ml Refill Fine Mist Grosir",
+        folder: "product_18_botol_parfum_10ml_refill",
+        price: 2800,
+        price_str: "Rp2.800",
+        sold_num: 289,
+        sold_str: "289 terjual",
+        commission_num: 46.5,
+        commission_str: "46.5%",
+        affiliate_link: "https://s.shopee.co.id/7fYj4GmzWC",
+        image: "products/product_18_botol_parfum_10ml_refill/main_image.webp",
+        category: "parfum",
+        is_winning: true,
+        ad_creative: "images/meta_ads/ad_botol_parfum_10ml.jpg",
+        ad_copy: `[Primary Text]\nSering traveling tapi bingung bawa parfum favorit tanpa takut pecah? 💧✨\n\nPindahkan parfummu ke Botol Kaca Parfum Refill 10ml!\n✅ Semi-transparent & spray fine mist berkualitas tinggi\n✅ Ukuran pas 10ml, tahan untuk pemakaian 1-2 minggu traveling\n✅ Harga grosir super murah mulai Rp2.800/pcs!\n\n[Headline]\n🌸 Botol Kaca Refill Parfum 10ml Spray Fine Mist — Rp2.800\n\n[Description]\n🔥 Best Seller Grosir | 289+ Terjual | Diskon Hari Ini`,
+        target_audience: "Penjual Parfum Refill, Penggemar Travel Size, Hobi Koleksi Parfum"
+      },
+      {
+        id: 19,
+        title: "Botol Casa 30 ml Baru Murah Spray Atomizer",
+        folder: "product_19_botol_casa_30ml",
+        price: 4500,
+        price_str: "Rp4.500",
+        sold_num: 6,
+        sold_str: "6 terjual",
+        commission_num: 45,
+        commission_str: "45%",
+        affiliate_link: "https://s.shopee.co.id/9Kgx3KuG3e",
+        image: "products/product_19_botol_casa_30ml/main_image.webp",
+        category: "parfum",
+        is_winning: false
+      }
+    ];
+
+    // State Variables
+    let currentCategory = 'all';
+    let currentSearch = '';
+    let currentSort = 'commission-desc';
+
+    // DOM Elements
+    const productGrid = document.getElementById('productGrid');
+    const searchInput = document.getElementById('searchInput');
+    const sortSelect = document.getElementById('sortSelect');
+    const categoryPills = document.getElementById('categoryPills');
+    const resultsCount = document.getElementById('resultsCount');
+    const themeToggleBtn = document.getElementById('themeToggleBtn');
+    const adsModal = document.getElementById('adsModal');
+    const toast = document.getElementById('toast');
+
+    // Filter & Render Function
+    function renderProducts() {
+      let filtered = products.filter(p => {
+        // Category Filter
+        if (currentCategory === 'winning' && !p.is_winning) return false;
+        if (currentCategory !== 'all' && currentCategory !== 'winning' && p.category !== currentCategory) return false;
+
+        // Search Filter
+        if (currentSearch) {
+          const query = currentSearch.toLowerCase();
+          return p.title.toLowerCase().includes(query) ||
+                 p.category.toLowerCase().includes(query) ||
+                 p.commission_str.includes(query);
+        }
+        return true;
+      });
+
+      // Sorting Logic
+      filtered.sort((a, b) => {
+        if (currentSort === 'commission-desc') return b.commission_num - a.commission_num;
+        if (currentSort === 'sold-desc') return b.sold_num - a.sold_num;
+        if (currentSort === 'price-asc') return a.price - b.price;
+        if (currentSort === 'price-desc') return b.price - a.price;
+        return 0;
+      });
+
+      resultsCount.textContent = `Menampilkan ${filtered.length} dari ${products.length} Produk`;
+
+      if (filtered.length === 0) {
+        productGrid.innerHTML = `
+          <div style="grid-column: 1/-1; text-align: center; padding: 3rem; color: var(--text-muted);">
+            <i class="fa-solid fa-box-open" style="font-size: 3rem; margin-bottom: 1rem; opacity: 0.5;"></i>
+            <p>Tidak ada produk yang cocok dengan pencarian atau filter Anda.</p>
+          </div>
+        `;
+        return;
+      }
+
+      productGrid.innerHTML = filtered.map(p => `
+        <div class="product-card">
+          <div class="card-thumb-wrapper">
+            <img src="${p.image}" alt="${p.title}" class="card-thumb-img" loading="lazy">
+            <div class="commission-badge">
+              <i class="fa-solid fa-percent"></i> ${p.commission_str} Komisi
+            </div>
+            ${p.is_winning ? '<div class="winning-tag"><i class="fa-solid fa-trophy"></i> WINNING ADS</div>' : ''}
+          </div>
+          <div class="card-body">
+            <h3 class="card-product-title">${p.title}</h3>
+            <div class="card-meta-info">
+              <span class="card-price">${p.price_str}</span>
+              <span class="card-sold">${p.sold_str}</span>
+            </div>
+            <div class="card-actions">
+              <a href="${p.affiliate_link}" target="_blank" class="btn-buy">
+                <i class="fa-solid fa-cart-shopping"></i> Beli di Shopee
+              </a>
+              <button class="btn-icon-action" onclick="copyLink('${p.affiliate_link}')" title="Salin Link Affiliate">
+                <i class="fa-regular fa-copy"></i>
+              </button>
+            </div>
+            ${p.is_winning ? `
+              <button class="btn-ads-creative" onclick="openAdsModal(${p.id})">
+                <i class="fa-solid fa-bullhorn"></i> Material Meta Ads
+              </button>
+            ` : ''}
+          </div>
+        </div>
+      `).join('');
+    }
+
+    // Event Listeners
+    searchInput.addEventListener('input', (e) => {
+      currentSearch = e.target.value.trim();
+      renderProducts();
+    });
+
+    sortSelect.addEventListener('change', (e) => {
+      currentSort = e.target.value;
+      renderProducts();
+    });
+
+    categoryPills.addEventListener('click', (e) => {
+      if (e.target.classList.contains('cat-btn')) {
+        document.querySelectorAll('.cat-btn').forEach(btn => btn.classList.remove('active'));
+        e.target.classList.add('active');
+        currentCategory = e.target.getAttribute('data-cat');
+        renderProducts();
+      }
+    });
+
+    // Theme Switcher
+    let isDark = true;
+    themeToggleBtn.addEventListener('click', () => {
+      isDark = !isDark;
+      document.body.setAttribute('data-theme', isDark ? 'dark' : 'light');
+      themeToggleBtn.innerHTML = isDark ? '<i class="fa-solid fa-moon"></i>' : '<i class="fa-solid fa-sun"></i>';
+    });
+
+    // Copy Link & Toast
+    function copyLink(url) {
+      navigator.clipboard.writeText(url).then(() => {
+        toast.classList.add('show');
+        setTimeout(() => toast.classList.remove('show'), 2500);
+      });
+    }
+
+    // Modal Handlers
+    function openAdsModal(productId) {
+      const p = products.find(prod => prod.id === productId);
+      if (!p || !p.ad_creative) return;
+
+      document.getElementById('modalTitle').innerHTML = `<i class="fa-solid fa-bullhorn" style="color: var(--accent-purple)"></i> Material Meta Ads: ${p.title}`;
+      document.getElementById('modalBody').innerHTML = `
+        <img src="${p.ad_creative}" class="modal-img-preview" alt="Meta Ads Creative">
+        <div>
+          <h4 style="margin-bottom: 0.5rem; color: var(--text-main); font-weight: 700;">🎯 Target Audiens Meta Ads:</h4>
+          <p style="color: var(--text-muted); font-size: 0.95rem; background: var(--bg-primary); padding: 0.75rem; border-radius: 8px; border: 1px solid var(--border-color);">${p.target_audience}</p>
+        </div>
+        <div>
+          <h4 style="margin-bottom: 0.5rem; color: var(--text-main); font-weight: 700;">✍️ Copywriting Iklan Meta Ads:</h4>
+          <div class="copy-box">
+            <button class="btn-copy-code" onclick="copyModalText()">Salin Copy</button>
+            <span id="modalCopyText">${p.ad_copy}</span>
+          </div>
+        </div>
+      `;
+      adsModal.classList.add('active');
+    }
+
+    function closeAdsModal() {
+      adsModal.classList.remove('active');
+    }
+
+    function copyModalText() {
+      const text = document.getElementById('modalCopyText').innerText;
+      navigator.clipboard.writeText(text).then(() => {
+        toast.innerHTML = '<i class="fa-solid fa-circle-check"></i> Copywriting berhasil disalin!';
+        toast.classList.add('show');
+        setTimeout(() => {
+          toast.classList.remove('show');
+          toast.innerHTML = '<i class="fa-solid fa-circle-check"></i> Link Affiliate berhasil disalin!';
+        }, 2500);
+      });
+    }
+
+    // Close Modal on Overlay Click
+    adsModal.addEventListener('click', (e) => {
+      if (e.target === adsModal) closeAdsModal();
+    });
+
+    // Initial Render
+    renderProducts();
+  </script>
+</body>
+</html>

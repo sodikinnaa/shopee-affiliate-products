@@ -1,7 +1,8 @@
 # 🛍️ Shopee Affiliate Products & Meta Ads Winning Toolkit
 
-Repository ini berisi katalog **Produk Winning Shopee Affiliate** ber-komisi tinggi (hingga **80%**) lengkap dengan **Aset Gambar Creative & Guide Iklan Meta Ads (Facebook & Instagram Ads)**, Hook Video TikTok/Reels, serta Strategi Audiens yang siap dipakai.
+Repository ini berisi katalog **Produk Winning Shopee Affiliate** ber-komisi tinggi (hingga **80%**) lengkap dengan **Showcase Website Interactive (`index.html`)**, **Aset Gambar Creative & Guide Iklan Meta Ads (FB & IG Ads)**, Hook Video TikTok/Reels, serta Script Posting Otomatis ke **Threads API**.
 
+👉 **[🌐 BUKA INTERACTIVE WEB SHOWCASE (`index.html`)](./index.html)**  
 👉 **[🎯 BUKA PANDUAN LENGKAP IKLAN META ADS (FB & IG ADS)](./META_ADS_GUIDE.md)**  
 👉 **[📦 BUKA KATALOG LENGKAP 19 PRODUK & GAMBAR (FOLDER PRODUCTS)](./products/README.md)**
 
@@ -16,9 +17,14 @@ Berikut adalah sampel **Image Creative Iklan Meta Ads** yang telah dirancang khu
 | ![Zipper Bag Meta Ad](./images/meta_ads/ad_zipper_bag_custom.jpg) | ![Botol Parfum Meta Ad](./images/meta_ads/ad_botol_parfum_5ml.jpg) | ![Ring Koper Meta Ad](./images/meta_ads/ad_ring_karet_koper.jpg) |
 | *Rasio 1:1 Feed* | *Rasio 1:1 Feed* | *Rasio 9:16 Story/Reels* |
 
+| 50 Pcs Tutup Botol Longneck (Komisi 71.5%) | Botol Parfum 10ml Refill (Komisi 46.5%) |
+|:---:|:---:|
+| ![Tutup Botol Longneck Meta Ad](./images/meta_ads/ad_tutup_botol_longneck.jpg) | ![Botol Parfum 10ml Meta Ad](./images/meta_ads/ad_botol_parfum_10ml.jpg) |
+| *Rasio 1:1 Feed* | *Rasio 1:1 Feed* |
+
 ---
 
-## 🏆 PRODUK WINNING RECOMMENDED (SIAP IKLAN META ADS & AFFILIATE)
+## 🏆 TOP 5 PRODUK WINNING RECOMMENDED (SIAP IKLAN META ADS & AFFILIATE)
 
 ### 🥇 1. Zipper Bag Custom Sablon (Free Desain)
 - 📂 **Folder Direktori**: [`products/product_01_zipper_bag_custom`](./products/product_01_zipper_bag_custom)
@@ -52,6 +58,7 @@ Berikut adalah sampel **Image Creative Iklan Meta Ads** yang telah dirancang khu
 - 💰 **Harga**: `Rp8.500` | 📈 **Penjualan**: `83 terjual` | 🎁 **Komisi Affiliate**: **`71.5%`**
 - 🔗 **Link Pembelian Shopee**: [https://s.shopee.co.id/19Hw7Epyt](https://s.shopee.co.id/19Hw7Epyt)
 - 🎯 **Target Meta Ads**: Produsen Minuman Rumahan, Kopi Literan, Jamu/Herbal, Industri Botol Plastik
+- ✍️ **Ad Copy Meta Ads**: *"Usaha minuman rumahan atau herbal butuh kemasan botol rapat anti bocor? Tutup botol longneck segel presisi 50 Pcs cuma 8 ribuan!"*
 
 ---
 
@@ -60,18 +67,20 @@ Berikut adalah sampel **Image Creative Iklan Meta Ads** yang telah dirancang khu
 - 💰 **Harga**: `Rp2.800` | 📈 **Penjualan**: `289 terjual` | 🎁 **Komisi Affiliate**: **`46.5%`**
 - 🔗 **Link Pembelian Shopee**: [https://s.shopee.co.id/7fYj4GmzWC](https://s.shopee.co.id/7fYj4GmzWC)
 - 🎯 **Target Meta Ads**: Penjual Parfum Refill, Penggemar Travel Size, Hobi Koleksi Parfum
+- ✍️ **Ad Copy Meta Ads**: *"Sering traveling tapi bingung bawa parfum favorit? Pindahkan ke botol kaca refill 10ml fine mist, harga grosir mulai Rp2.800!"*
 
 ---
 
-## ⚡ META ADS STRATEGY & CAMPAIGN GUIDE
+## ⚡ AUTOMATION & POSTING TOOLS
 
-Untuk panduan teknis mendalam mengenai:
-1. **Targeting Audiens Meta Ads** (Demografi, Interests, Behaviors)
-2. **Text Primary Copywriting, Headline, & Description**
-3. **Budget Optimization & Bidding Strategy** (CBO vs ABO, KPI Target)
-4. **Best Practices Gambar Creative (Ukuran, Ratio & Overlay Text)**
+### 1. Interactive Storefront Showcase (`index.html`)
+Web aplikasi responsif dengan fitur pencarian real-time, filter kategori, sorting komisi, modal preview materi iklan Meta Ads, serta tombol salin link affiliate.
 
-👉 **Silakan baca panduan lengkapnya di [META_ADS_GUIDE.md](./META_ADS_GUIDE.md)**
+### 2. Threads Poster Auto Queue (`bulk_threads_poster.py` & `threads_poster.py`)
+Jalankan script untuk membuat antrean draf postingan Threads dan publikasi otomatis menggunakan **Meta Threads Graph API**:
+```bash
+python3 bulk_threads_poster.py
+```
 
 ---
 
@@ -79,14 +88,20 @@ Untuk panduan teknis mendalam mengenai:
 
 ```
 .
+├── index.html                 # 🌐 Interactive Web Showcase App (Shopee Affiliate Catalog)
 ├── META_ADS_GUIDE.md          # 🎯 Panduan Lengkap Campaign & Copywriting Meta Ads
 ├── README.md                  # 🛍️ Dokumentasi Utama Repository & Produk Winning
 ├── products.json              # 📄 Data JSON Lengkap 19 Produk Affiliate
+├── download_and_setup.py      # 🐍 Script Pengunduh Gambar & Generator Metadata
+├── threads_poster.py          # 🧵 Threads API Client
+├── bulk_threads_poster.py     # 🚀 Script Posting Massal Produk Winning ke Threads
 ├── images/
-│   └── meta_ads/              # 🖼️ Gambar Creative Iklan Meta Ads (Feed & Story)
+│   └── meta_ads/              # 🖼️ Gambar Creative Iklan Meta Ads (1:1 Feed & 9:16 Story)
 │       ├── ad_zipper_bag_custom.jpg
 │       ├── ad_botol_parfum_5ml.jpg
-│       └── ad_ring_karet_koper.jpg
+│       ├── ad_ring_karet_koper.jpg
+│       ├── ad_tutup_botol_longneck.jpg
+│       └── ad_botol_parfum_10ml.jpg
 └── products/                  # 📦 Katalog & Folder Gambar 19 Produk Shopee
     ├── README.md
     ├── product_01_zipper_bag_custom/

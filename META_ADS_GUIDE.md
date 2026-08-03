@@ -127,6 +127,84 @@ Panduan komprehensif menjalankan iklan **Meta Ads (Facebook & Instagram Ads)** k
 
 ---
 
+### 🏅 WINNING 4: 50 Pcs Tutup Botol Longneck (Komisi 71.5% | High Profit B2B)
+- 💰 **Harga**: `Rp8.500` | 🎁 **Komisi**: `71.5%`
+- 🔗 **Link Affiliate Shopee**: [https://s.shopee.co.id/19Hw7Epyt](https://s.shopee.co.id/19Hw7Epyt)
+- 📂 **Folder Assets**: [`products/product_02_tutup_botol_longneck`](./products/product_02_tutup_botol_longneck)
+
+#### 🖼️ Image Creative Meta Ads (Ratio 1:1 Feed)
+![Meta Ads Tutup Botol Longneck](./images/meta_ads/ad_tutup_botol_longneck.jpg)
+
+#### 🎯 Meta Ads Audience Targeting
+- **Lokasi**: Indonesia
+- **Usia**: 22 – 50 Tahun
+- **Gender**: Pria & Wanita
+- **Detailed Targeting (Interests)**:
+  - `Small Business` / `Beverage industry`
+  - `Home-based business` / `Coffee shop` / `Cold brew`
+  - `Herbal medicine` / `Packaging and labeling`
+
+#### ✍️ Copywriting Iklan Meta Ads
+> **[Primary Text]**
+> Usaha minuman rumahan, sirup, atau herbal butuh kemasan botol yang rapat & aman dari bocor? 🥤🔒  
+> 
+> Pakai **Tutup Botol Longneck Paket 50 Pcs** ini!  
+> ✅ Dilengkapi segel tamper-evident (otomatis terkunci saat diputar)  
+> ✅ Presisi & kedap udara, menjaga kesegaran minuman lebih lama  
+> ✅ Harga ekonomis cuma 8 ribuan dapet 50 Pcs!  
+> 
+> Klik **Beli Sekarang** untuk restock bahan kemasan usahamui! 👇  
+> 
+> **[Headline]**  
+> 🥤 Paket 50 Pcs Tutup Botol Longneck Segel Presisi — Rp8.500  
+> 
+> **[Description]**  
+> ⚡ Komisi 71.5% | Pilihan Utama UMKM Minuman & Herbal  
+> 
+> **[Call to Action]**  
+> Shop Now / Beli Sekarang
+
+---
+
+### 🏅 WINNING 5: Botol Parfum Kosong 10ml Refill Grosir (Komisi 46.5% | High Volume)
+- 💰 **Harga**: `Rp2.800` | 🎁 **Komisi**: `46.5%`
+- 🔗 **Link Affiliate Shopee**: [https://s.shopee.co.id/7fYj4GmzWC](https://s.shopee.co.id/7fYj4GmzWC)
+- 📂 **Folder Assets**: [`products/product_18_botol_parfum_10ml_refill`](./products/product_18_botol_parfum_10ml_refill)
+
+#### 🖼️ Image Creative Meta Ads (Ratio 1:1 Feed)
+![Meta Ads Botol Parfum 10ml](./images/meta_ads/ad_botol_parfum_10ml.jpg)
+
+#### 🎯 Meta Ads Audience Targeting
+- **Lokasi**: Indonesia
+- **Usia**: 18 – 40 Tahun
+- **Gender**: Wanita (65%), Pria (35%)
+- **Detailed Targeting (Interests)**:
+  - `Perfume` / `Fragrance refill` / `Aromatherapy`
+  - `Beauty products` / `Travel gadgets`
+  - `Wholesale` / `Reseller`
+
+#### ✍️ Copywriting Iklan Meta Ads
+> **[Primary Text]**
+> Sering traveling tapi bingung bawa parfum favorit tanpa takut pecah? 💧✨  
+> 
+> Pindahkan parfummu ke **Botol Kaca Parfum Refill 10ml**!  
+> ✅ Semi-transparent & spray fine mist berkualitas tinggi  
+> ✅ Ukuran pas 10ml, tahan untuk pemakaian 1-2 minggu traveling  
+> ✅ Harga grosir super murah mulai Rp2.800/pcs!  
+> 
+> Dapatkan harga grosir terbaik hanya di Shopee! Klik link di bawah! 👇  
+> 
+> **[Headline]**  
+> 🌸 Botol Kaca Refill Parfum 10ml Spray Fine Mist — Rp2.800  
+> 
+> **[Description]**  
+> 🔥 Best Seller Grosir | 289+ Terjual | Diskon Hari Ini  
+> 
+> **[Call to Action]**  
+> Shop Now / Beli Sekarang
+
+---
+
 ## 📊 2. FORMULA MATERI IKLAN META ADS (IMAGE RULES & BEST PRACTICES)
 
 Untuk memaksimalkan **CTR (Click-Through Rate)** dan **Conversion Rate** di Meta Ads (FB & IG):
