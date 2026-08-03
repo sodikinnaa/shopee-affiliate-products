@@ -45,22 +45,26 @@ Materi iklan berfokus pada target pasar UMKM & Brand Fashion yang membutuhkan ke
 * **Usia & Gender**: 21 – 45 Tahun | Pria & Wanita (Fokus Utama: Wanita 65%)
 * **Detailed Targeting (Interests)**: `Small business`, `Entrepreneurship`, `Shopping and fashion`, `Clothing / Boutique`, `Packaging and labeling`, `E-commerce`
 
-#### ✍️ Meta Ad Copywriting
+#### ✍️ Meta Ad Copywriting (Formula Click-Magnet High CTR)
 > **[Primary Text]**  
-> Pengen brand fashion / olshop kamu kelihatan se-premium brand mall? 🛍️✨  
+> 🎁 **SPESIAL 20 OLSHOP PERTAMA: GRATIS DESAIN LOGO & SABLON PACKAGING!** 🛍️✨  
 >   
-> Upgrade packaging olshop kamu pakai **Zipper Bag Custom** berlogo brand sendiri!  
-> ✅ FREE Desain Logo & Sablon 1 Warna  
-> ✅ Plastik Zipper Premium Frosted & Durable  
-> ✅ Cetak Minimal Cuma 100 Pcs (Harga Rp4.300/pcs)  
+> Masih kirim paket pelanggan pakai plastik kresek polos biasa? 😱  
+> Biar olshop kamu makin dipercaya & kebanjiran bintang 5, pakai **Zipper Bag Custom Logo** ini!  
+> ✅ **FREE Desain Logo** *(Bisa minta buatkan logo baru!)*  
+> ✅ **FREE Sablon 1 Warna** *(Logo brand kamu tercetak rapi)*  
+> ✅ Plastik Frosted Tebal & Anti Sobek *(Standard Brand Mall)*  
+> ✅ Cetak Hemat Mulai Rp4.300/pcs!  
 >   
-> Bikin pembeli makin percaya dan repeat order terus! Klik **Beli Sekarang** di Shopee! 👇  
+> ⚠️ *Kuota Gratis Desain Terbatas Hari Ini!*  
+> 👇 **KLIK TOMBOL "BELI SEKARANG" UNTUK AMBIL PROMO GRATIS DESAIN DI SHOPEE!** 👇  
+> `https://s.shopee.co.id/8fRGG2Smxy`  
 >   
 > **[Headline]**  
-> 📦 Zipper Bag Custom Olshop (Gratis Desain & Sablon) — Rp4.300  
+> 🎁 SPESIAL OLSHOP: GRATIS DESAIN & SABLON PACKAGING!  
 >   
 > **[Description]**  
-> 🌟 10RB+ Terjual di Shopee | Komisi Spesial & Promo Grosir  
+> 🔥 10.000+ Olshop Sudah Pakai | Cek Promo Shopee  
 >   
 > **[Call to Action Button]**  
 > `Shop Now` / `Beli Sekarang`
